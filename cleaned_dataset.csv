@@ -1,0 +1,1001 @@
+country,_order_value_eur_,_cost_,date,category,customer_name,sales_manager,sales_rep,device_type,order_id
+sweden,"17,524.02",14122.61,2020-02-12,books,Goldner-Dibbert,Maxie Marrow,Madelon Bront,mobile,70-0511466
+finland,"116,563.40",92807.78,2019-09-26,games,Hilll-Vandervort,Hube Corey,Wat Bowkley,mobile,28-6585323
+portugal,"296,465.56",257480.34,2019-07-11,clothing,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,pc,58-7703341
+portugal,"74,532.02",59752.32,2020-04-02,beauty,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,pc,14-6700183
+spain,"178,763.42",146621.76,2019-12-22,games,Johns and Sons,Emalia Dinse,Bertha Walbrook,tablet,15-8765160
+spain,"84,900.24",73701.9,2020-07-14,clothing,"Farrell, Swaniawski and Crist",Emalia Dinse,Perri Aldersley,pc,60-6998932
+portugal,"71,620.08",62245.01,2019-02-05,books,Schoen-Keeling,Celine Tumasian,Smitty Culverhouse,pc,69-6259390
+uk,"156,585.22",126599.15,2020-08-30,accessories,"Hermiston, Simonis and Wisoky",Jessamine Apark,Winny Agnolo,pc,64-5761908
+portugal,"78,461.13",63537.82,2020-05-10,appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,mobile,91-4126746
+france,"64,827.80",56043.63,2019-01-20,appliances,Gislason-Stanton,Othello Bowes,Maighdiln Upcraft,pc,62-3312495
+sweden,"142,664.34",120808.16,2019-05-04,appliances,"Swaniawski, Runolfsson and Green",Maxie Marrow,Madelon Bront,pc,85-6625096
+uk,"66,673.19",52811.83,2019-02-23,smartphones,Gislason-Stanton,Jessamine Apark,Winny Agnolo,pc,25-6368157
+portugal,"136,915.61",114790.05,2020-01-04,outdoors,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,tablet,15-3943365
+uk,"164,971.70",132686.74,2019-07-20,accessories,Wisoky Inc,Jessamine Apark,Winny Agnolo,pc,32-3534634
+uk,"149,486.27",118662.2,2019-08-06,beauty,Johns and Sons,Jessamine Apark,Genevra Charrisson,pc,02-3972649
+sweden,"54,078.92",46102.28,2020-11-08,books,Tillman and Sons,Maxie Marrow,Anita Woakes,pc,08-7576451
+france,"107,499.78",91364.06,2019-02-26,smartphones,"Rowe, Hermiston and Kessler",Othello Bowes,Amelina Piscopiello,pc,68-3583935
+uk,"29,493.79",24285.19,2019-11-22,games,Tillman and Sons,Jessamine Apark,Jay Morefield,pc,53-7769693
+portugal,"147,656.52",124193.9,2019-06-05,smartphones,Goldner-Dibbert,Celine Tumasian,Corene Shirer,pc,85-4732103
+portugal,"156,839.31",134709.28,2020-05-11,smartphones,Stamm Inc,Celine Tumasian,Corene Shirer,pc,27-9800293
+spain,"81,412.10",64747.04,2019-11-06,electronics,Johns and Sons,Emalia Dinse,Bertha Walbrook,pc,67-3929836
+sweden,"56,717.53",45101.78,2019-03-10,clothing,Johns and Sons,Maxie Marrow,Alyosha Meah,pc,13-0526029
+netherlands,"17,028.19",14102.75,2020-02-07,clothing,Johns and Sons,Denice Amberg,Nero Harbisher,pc,38-5910704
+finland,"236,462.30",205674.91,2020-12-23,clothing,Hessel-Stiedemann,Hube Corey,Wat Bowkley,pc,41-6407014
+portugal,"172,989.17",142975.55,2020-06-10,beauty,Romaguera-Dietrich,Celine Tumasian,Hortense Gerring,pc,22-6745595
+sweden,"48,179.57",41405.52,2020-08-14,books,Franecki-White,Maxie Marrow,Anita Woakes,pc,96-3022721
+portugal,"121,318.55",102890.26,2020-03-10,electronics,"Jacobson, Marvin and Brown",Celine Tumasian,Aurelie Wren,tablet,48-0713329
+belgium,"93,153.98",79702.55,2020-04-03,appliances,Armstrong-Little,Lambert Norheny,Collin Mackness,mobile,50-0942872
+bulgaria,"98,289.32",84116.0,2019-02-15,appliances,"Murray, Reichel and Nolan",Charil Alpe,Shermy McGready,pc,78-2307905
+luxembourg,"108,920.56",94270.74,2019-07-08,books,"Swaniawski, Runolfsson and Green",Ilsa Kob,Jocelyn Laurentino,pc,63-0019978
+portugal,"37,273.84",31559.76,2020-01-20,games,Considine-Fisher,Celine Tumasian,Aurelie Wren,tablet,26-9948924
+spain,"221,745.05",190767.27,2019-06-25,appliances,Kirlin and Sons,Emalia Dinse,Bertha Walbrook,mobile,72-7630507
+netherlands,"54,566.99",43757.27,2020-03-23,smartphones,Friesen-Rath,Denice Amberg,Nero Harbisher,pc,36-3410564
+portugal,"111,639.29",97204.33,2019-10-28,smartphones,"Keeling, Monahan and Pollich",Celine Tumasian,Hortense Gerring,pc,82-4653018
+sweden,"74,273.54",61981.27,2020-03-28,beauty,"Swaniawski, Runolfsson and Green",Maxie Marrow,Caro Morfield,pc,29-1001593
+portugal,"95,566.43",80342.7,2019-05-07,clothing,Hessel-Stiedemann,Celine Tumasian,Hortense Gerring,pc,59-5568557
+france,"28,783.05",24776.45,2019-03-29,clothing,Dibbert Inc,Othello Bowes,Maighdiln Upcraft,pc,12-1249283
+uk,"124,414.74",98959.48,2019-06-13,outdoors,Labadie and Sons,Jessamine Apark,Winny Agnolo,pc,96-0180648
+portugal,"153,029.72",125117.1,2020-01-28,games,Friesen-Rath,Celine Tumasian,Corene Shirer,pc,51-9029547
+sweden,"174,919.64",146845.04,2020-11-03,clothing,Wiza and Sons,Maxie Marrow,Caro Morfield,mobile,84-2614836
+france,"55,804.05",46401.07,2019-03-05,electronics,"Rowe, Hermiston and Kessler",Othello Bowes,Crysta Halls,pc,57-6995715
+france,"89,160.66",75367.51,2019-11-18,beauty,Wiza and Sons,Othello Bowes,Crysta Halls,pc,27-4115444
+uk,"27,987.13",24001.76,2019-03-26,games,Labadie and Sons,Jessamine Apark,Genevra Charrisson,pc,34-3302340
+france,"18,326.41",15067.97,2019-02-03,games,"Schmitt, Purdy and Johnson",Othello Bowes,Ora Grennan,pc,25-6638623
+netherlands,"62,708.60",51414.78,2019-08-29,smartphones,"Hamill, Kulas and Roob",Denice Amberg,Nero Harbisher,pc,11-5260310
+uk,"124,668.36",103998.35,2020-11-05,games,Hessel-Stiedemann,Jessamine Apark,Winny Agnolo,pc,68-5024232
+italy,"109,390.57",87414.0,2020-11-12,other,Schoen-Keeling,Piggy Roscrigg,Joshua Prevost,mobile,90-2530115
+portugal,"103,279.79",82334.65,2020-03-12,appliances,Johns and Sons,Celine Tumasian,Aurelie Wren,pc,23-8271333
+france,"173,478.65",139650.31,2019-01-29,books,Johns and Sons,Othello Bowes,Avrit Chanders,pc,99-7422044
+sweden,"57,927.54",48914.01,2019-01-18,games,"Fisher, Morar and Skiles",Maxie Marrow,Alyosha Meah,mobile,67-6692861
+portugal,"84,767.77",68950.1,2020-01-18,electronics,McGlynn-Bergstrom,Celine Tumasian,Smitty Culverhouse,mobile,20-3441688
+france,"138,175.53",116744.51,2020-11-03,other,"Spencer, Rogahn and Muller",Othello Bowes,Ora Grennan,pc,80-8230605
+portugal,"143,107.89",121241.0,2020-11-02,electronics,Kirlin and Sons,Celine Tumasian,Hortense Gerring,mobile,18-0704377
+sweden,"54,446.50",44989.14,2020-03-09,appliances,Wunsch LLC,Maxie Marrow,Alyosha Meah,tablet,47-5524071
+portugal,"136,324.90",110436.8,2019-10-29,electronics,Walter LLC,Celine Tumasian,Hortense Gerring,tablet,76-2572347
+portugal,"43,066.58",36154.39,2019-02-08,games,"Hamill, Kulas and Roob",Celine Tumasian,Hortense Gerring,mobile,74-4429133
+france,"224,626.25",189988.88,2020-07-21,electronics,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Ora Grennan,pc,69-1300467
+france,"115,689.22",98127.6,2019-07-15,clothing,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,pc,99-8643527
+bulgaria,"78,293.94",66236.67,2019-10-13,appliances,"Rowe, Hermiston and Kessler",Charil Alpe,Bernadine Fullagar,mobile,14-1143584
+portugal,"92,698.45",73454.25,2020-01-13,clothing,Hessel-Stiedemann,Celine Tumasian,Corene Shirer,pc,62-4331197
+bulgaria,"83,141.47",72000.51,2019-03-15,outdoors,Wisoky Inc,Charil Alpe,Shermy McGready,mobile,02-3333733
+portugal,"38,982.26",32854.25,2019-10-12,clothing,Hegmann Group,Celine Tumasian,Smitty Culverhouse,mobile,09-3959499
+portugal,"57,120.58",49654.92,2019-11-25,games,"Leffler, Prohaska and Streich",Celine Tumasian,Aurelie Wren,pc,55-7848276
+sweden,"240,759.07",205415.64,2020-06-14,appliances,"Schmitt, Purdy and Johnson",Maxie Marrow,Tarrah Castelletti,pc,98-1814878
+sweden,"53,849.12",47354.92,2020-04-15,games,"Rowe, Hermiston and Kessler",Maxie Marrow,Alyosha Meah,pc,83-9569509
+ireland,"361,182.87",288368.4,2019-12-02,books,Smith Group,Glenine Suttaby,Bunnie Tonbridge,pc,44-1953194
+sweden,"97,063.22",78067.95,2019-10-19,appliances,"Zieme, Bailey and Herzog",Maxie Marrow,Madelon Bront,tablet,50-0376562
+spain,"39,110.97",34315.97,2019-10-27,clothing,"Bashirian, Okuneva and Bechtelar",Emalia Dinse,Perri Aldersley,pc,06-9596696
+france,"123,672.70",106036.97,2020-11-13,smartphones,McGlynn-Prosacco,Othello Bowes,Crysta Halls,pc,46-2632808
+france,"144,640.80",118345.1,2019-04-11,electronics,"Murray, Reichel and Nolan",Othello Bowes,Avrit Chanders,pc,77-7771177
+france,"268,779.03",233676.49,2019-12-27,smartphones,O'Connell-Mitchell,Othello Bowes,Ora Grennan,mobile,13-0624842
+sweden,"53,593.86",45629.81,2020-07-12,electronics,Friesen-Rath,Maxie Marrow,Caro Morfield,pc,71-4409662
+france,"155,044.02",134268.12,2019-10-25,beauty,West-Cummings,Othello Bowes,Amelina Piscopiello,pc,46-0270404
+portugal,"102,495.13",85009.46,2020-08-08,smartphones,"Hermiston, Simonis and Wisoky",Celine Tumasian,Hortense Gerring,tablet,70-7107956
+portugal,"294,472.77",255572.92,2019-06-11,smartphones,Gislason-Stanton,Celine Tumasian,Smitty Culverhouse,tablet,84-5310661
+sweden,"64,053.77",54733.95,2020-09-01,beauty,Armstrong-Little,Maxie Marrow,Anita Woakes,pc,75-6638402
+uk,"24,543.72",19492.62,2019-03-22,clothing,Hessel-Stiedemann,Jessamine Apark,Jay Morefield,pc,53-0615558
+portugal,"161,544.06",132579.21,2019-09-12,clothing,Johns and Sons,Celine Tumasian,Smitty Culverhouse,pc,00-2549549
+portugal,"50,303.66",41103.12,2020-01-06,appliances,"Christiansen, Donnelly and Bechtelar",Celine Tumasian,Smitty Culverhouse,pc,23-1397222
+sweden,"124,593.04",109106.13,2020-01-11,appliances,Johns and Sons,Maxie Marrow,Madelon Bront,mobile,00-4698524
+sweden,"44,147.92",37163.72,2020-05-18,beauty,"Murray, Reichel and Nolan",Maxie Marrow,Madelon Bront,pc,76-3837496
+bulgaria,"42,239.66",37039.96,2019-05-17,smartphones,Johns and Sons,Charil Alpe,Shermy McGready,pc,61-7979087
+sweden,"113,763.38",91158.6,2020-04-01,books,"Christiansen, Donnelly and Bechtelar",Maxie Marrow,Madelon Bront,pc,52-8377955
+portugal,"183,363.60",155033.92,2019-06-24,smartphones,Johns and Sons,Celine Tumasian,Hortense Gerring,pc,87-6162387
+france,"85,220.83",73767.15,2019-09-15,beauty,"Shanahan, Schaden and Parker",Othello Bowes,Crysta Halls,tablet,11-8965256
+portugal,"87,513.27",72469.74,2020-03-05,books,"Lubowitz, McLaughlin and Erdman",Celine Tumasian,Corene Shirer,mobile,16-9079414
+bulgaria,"37,073.91",30274.55,2019-04-26,books,Rath-Schroeder,Charil Alpe,Bernadine Fullagar,tablet,15-9091881
+france,"122,139.94",103684.6,2019-11-02,smartphones,Smith Group,Othello Bowes,Ora Grennan,pc,07-3222085
+france,"107,586.21",94525.24,2020-06-07,electronics,"Spencer, Rogahn and Muller",Othello Bowes,Amelina Piscopiello,pc,20-3384992
+uk,"203,958.16",176444.2,2020-12-02,appliances,Larkin-Collier,Jessamine Apark,Genevra Charrisson,pc,09-3404706
+portugal,"55,132.39",47121.65,2019-06-11,clothing,"Dickinson, Hyatt and Berge",Celine Tumasian,Hortense Gerring,pc,97-8712680
+ireland,"135,424.06",116275.1,2020-01-15,electronics,"Hamill, Kulas and Roob",Glenine Suttaby,Palm Wetherald,pc,43-4245267
+sweden,"167,123.72",132946.92,2019-08-01,smartphones,Hegmann Group,Maxie Marrow,Alyosha Meah,pc,58-8969119
+germany,"92,868.37",79068.13,2020-03-30,electronics,"Fisher, Morar and Skiles",Rickard Doogood,Casie MacBain,pc,88-8436664
+portugal,"108,689.45",91223.06,2019-11-09,appliances,Walter LLC,Celine Tumasian,Brynn Dempster,mobile,35-6825112
+portugal,"79,874.42",68132.88,2020-11-14,outdoors,"Farrell, Swaniawski and Crist",Celine Tumasian,Smitty Culverhouse,pc,24-4511396
+germany,"153,011.39",131543.89,2019-09-13,appliances,Johns and Sons,Rickard Doogood,Casie MacBain,pc,99-0564964
+portugal,"72,857.41",60442.51,2020-05-10,clothing,Armstrong-Little,Celine Tumasian,Brynn Dempster,pc,47-9920494
+france,"102,771.44",83584.01,2019-11-24,accessories,McClure Inc,Othello Bowes,Maighdiln Upcraft,pc,82-9352154
+uk,"90,559.16",75318.05,2019-08-26,outdoors,"Dickinson, Hyatt and Berge",Jessamine Apark,Genevra Charrisson,pc,74-6920956
+portugal,"141,796.75",112317.21,2020-09-16,games,Johns and Sons,Celine Tumasian,Corene Shirer,pc,16-8778373
+bulgaria,"103,874.10",82112.48,2019-01-14,outdoors,Johns and Sons,Charil Alpe,Shermy McGready,pc,85-4014655
+spain,"134,908.19",114388.65,2020-08-18,clothing,Romaguera-Dietrich,Emalia Dinse,Perri Aldersley,pc,25-2355172
+portugal,"45,256.74",38975.1,2019-01-14,other,"Spencer, Rogahn and Muller",Celine Tumasian,Smitty Culverhouse,pc,31-7667796
+portugal,"131,018.65",107920.06,2020-04-02,clothing,Hane Inc,Celine Tumasian,Brynn Dempster,pc,39-2536155
+ireland,"84,877.87",68454.0,2019-12-01,electronics,"Zieme, Bailey and Herzog",Glenine Suttaby,Bunnie Tonbridge,pc,30-8840089
+france,"168,197.78",144246.42,2019-01-13,smartphones,Kihn Inc,Othello Bowes,Crysta Halls,pc,93-8309926
+uk,"383,996.76",304701.43,2019-12-19,other,Johns and Sons,Jessamine Apark,Winny Agnolo,pc,42-7823733
+france,"56,811.14",48221.3,2019-10-07,clothing,"Schowalter, Lesch and Beahan",Othello Bowes,Ora Grennan,pc,03-9337803
+portugal,"74,364.46",60145.98,2020-01-21,clothing,Altenwerth-Konopelski,Celine Tumasian,Aurelie Wren,mobile,42-1879788
+finland,"235,608.66",201468.96,2020-07-27,games,Hegmann Group,Hube Corey,Wat Bowkley,tablet,42-8394841
+sweden,"31,627.37",25662.45,2020-08-27,beauty,"Christiansen, Donnelly and Bechtelar",Maxie Marrow,Caro Morfield,mobile,84-5642889
+sweden,"57,227.99",46331.78,2019-03-28,appliances,Johns and Sons,Maxie Marrow,Alyosha Meah,pc,92-7234550
+portugal,"84,598.68",72391.09,2020-04-28,clothing,"Hamill, Kulas and Roob",Celine Tumasian,Brynn Dempster,pc,98-5721101
+sweden,"98,322.98",84872.4,2020-10-09,clothing,Hessel-Stiedemann,Maxie Marrow,Tarrah Castelletti,pc,32-9344186
+netherlands,"62,567.58",49916.42,2019-04-21,clothing,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,pc,40-7356336
+sweden,"239,423.57",199152.52,2019-12-08,electronics,"Hamill, Kulas and Roob",Maxie Marrow,Madelon Bront,mobile,94-1762263
+france,"68,773.03",59082.91,2019-09-30,games,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,pc,26-5649751
+germany,"102,918.09",87480.38,2019-10-28,smartphones,"Swaniawski, Runolfsson and Green",Rickard Doogood,Casie MacBain,pc,88-5343320
+uk,"150,313.19",118927.8,2020-01-23,beauty,Johns and Sons,Jessamine Apark,Jay Morefield,pc,09-6527060
+sweden,"144,072.90",123729.81,2019-07-13,beauty,"Fisher, Morar and Skiles",Maxie Marrow,Anita Woakes,pc,85-3431441
+sweden,"69,681.43",55529.13,2020-01-25,clothing,Romaguera-Dietrich,Maxie Marrow,Alyosha Meah,pc,78-3301264
+sweden,"78,542.59",68010.03,2019-05-26,games,Kihn Inc,Maxie Marrow,Caro Morfield,pc,02-9523107
+portugal,"37,582.13",31967.36,2020-05-07,appliances,Hilll-Vandervort,Celine Tumasian,Smitty Culverhouse,mobile,19-9205287
+sweden,"88,329.48",73755.12,2020-08-16,clothing,Corwin and Sons,Maxie Marrow,Caro Morfield,mobile,94-1199389
+portugal,"249,099.44",215695.2,2020-06-15,other,Johns and Sons,Celine Tumasian,Corene Shirer,pc,88-4621939
+uk,"28,328.78",24408.08,2019-02-19,clothing,"Dickinson, Hyatt and Berge",Jessamine Apark,Jay Morefield,pc,68-9634139
+portugal,"162,246.76",142663.58,2019-08-28,games,Hessel-Stiedemann,Celine Tumasian,Corene Shirer,pc,44-5200140
+germany,"161,217.16",135696.48,2019-10-20,games,Labadie and Sons,Rickard Doogood,Casie MacBain,pc,98-6247105
+france,"37,397.43",30837.92,2020-05-17,games,Hegmann Group,Othello Bowes,Avrit Chanders,pc,24-6566439
+uk,"99,064.31",85393.44,2020-07-10,books,Johns and Sons,Jessamine Apark,Winny Agnolo,pc,52-9152387
+sweden,"15,817.05",13743.44,2019-03-10,clothing,Kihn Inc,Maxie Marrow,Anita Woakes,pc,26-9787272
+portugal,"38,930.16",32837.59,2020-11-18,outdoors,"Spencer, Rogahn and Muller",Celine Tumasian,Brynn Dempster,pc,12-2202467
+portugal,"28,859.73",23656.32,2019-01-09,electronics,Larkin-Collier,Celine Tumasian,Corene Shirer,mobile,82-0537890
+france,"54,079.04",45031.62,2020-05-29,games,"Lueilwitz, Kerluke and Lesch",Othello Bowes,Avrit Chanders,pc,15-6838362
+sweden,"70,596.70",60564.91,2020-02-09,electronics,Hilll-Vandervort,Maxie Marrow,Alyosha Meah,pc,51-0685379
+uk,"169,629.55",135347.42,2019-10-23,outdoors,Johns and Sons,Jessamine Apark,Jay Morefield,pc,76-5919033
+portugal,"95,387.89",76195.85,2020-05-08,books,Gislason-Stanton,Celine Tumasian,Aurelie Wren,pc,34-7627348
+france,"50,585.98",40999.94,2020-08-29,beauty,"Bashirian, Okuneva and Bechtelar",Othello Bowes,Maighdiln Upcraft,tablet,32-1940437
+sweden,"103,726.57",90231.74,2020-05-21,clothing,Dibbert Inc,Maxie Marrow,Caro Morfield,mobile,25-9913528
+uk,"222,700.23",194951.78,2020-12-12,appliances,Johns and Sons,Jessamine Apark,Genevra Charrisson,mobile,73-3464233
+portugal,"143,322.47",114213.68,2020-05-19,books,Johns and Sons,Celine Tumasian,Corene Shirer,pc,04-2863062
+uk,"128,227.36",106710.81,2019-06-01,accessories,"Murray, Reichel and Nolan",Jessamine Apark,Jay Morefield,pc,18-7077174
+sweden,"127,939.80",112267.17,2019-12-09,clothing,Gislason-Stanton,Maxie Marrow,Alyosha Meah,pc,64-8300193
+sweden,"146,540.75",120822.85,2019-04-30,smartphones,"Swaniawski, Runolfsson and Green",Maxie Marrow,Anita Woakes,pc,84-2858993
+portugal,"36,321.68",31581.7,2020-10-29,books,Kirlin and Sons,Celine Tumasian,Smitty Culverhouse,pc,72-2647440
+spain,"42,814.57",35356.27,2019-02-01,beauty,Wiza and Sons,Emalia Dinse,Perri Aldersley,pc,68-1806238
+uk,"169,262.20",141080.04,2020-04-26,beauty,Considine-Fisher,Jessamine Apark,Winny Agnolo,pc,87-0922827
+sweden,"114,427.36",93727.45,2020-03-11,other,Tillman and Sons,Maxie Marrow,Madelon Bront,pc,33-8547717
+uk,"126,979.62",105113.73,2019-09-26,electronics,Dibbert Inc,Jessamine Apark,Genevra Charrisson,pc,15-5051694
+luxembourg,"294,874.74",259106.43,2020-12-15,books,Morissette Group,Ilsa Kob,Jocelyn Laurentino,pc,37-2363680
+uk,"173,258.94",143198.51,2019-05-24,clothing,Johns and Sons,Jessamine Apark,Jay Morefield,pc,92-4106004
+luxembourg,"158,362.33",133990.37,2020-08-14,books,Hessel-Stiedemann,Ilsa Kob,Jocelyn Laurentino,pc,39-1671087
+uk,"50,689.19",43597.77,2020-11-18,clothing,"Swaniawski, Runolfsson and Green",Jessamine Apark,Jay Morefield,pc,77-9240051
+ireland,"117,358.02",102664.8,2020-11-02,clothing,Goldner-Dibbert,Glenine Suttaby,Palm Wetherald,pc,79-8966057
+sweden,"93,996.68",77171.27,2020-10-10,games,"Swaniawski, Runolfsson and Green",Maxie Marrow,Alyosha Meah,mobile,75-0683725
+uk,"119,769.22",98234.71,2020-01-11,books,"Bashirian, Okuneva and Bechtelar",Jessamine Apark,Jay Morefield,pc,55-5032186
+france,"84,194.21",71885.02,2020-12-26,books,"Zieme, Bailey and Herzog",Othello Bowes,Avrit Chanders,mobile,31-8836719
+finland,"205,582.75",166748.17,2020-12-22,beauty,Tromp LLC,Hube Corey,Wat Bowkley,pc,64-4923214
+sweden,"159,793.46",139180.1,2019-06-15,smartphones,"Swaniawski, Runolfsson and Green",Maxie Marrow,Alyosha Meah,tablet,98-2574776
+portugal,"104,711.22",90868.4,2020-08-25,clothing,Marquardt-Kuvalis,Celine Tumasian,Corene Shirer,pc,33-0729966
+france,"69,126.50",55902.6,2019-12-08,electronics,"Farrell, Swaniawski and Crist",Othello Bowes,Avrit Chanders,pc,07-3201531
+sweden,"20,226.11",17408.61,2019-02-23,electronics,Larkin-Collier,Maxie Marrow,Caro Morfield,pc,21-3278349
+france,"65,036.81",52361.14,2019-05-30,other,Considine-Fisher,Othello Bowes,Amelina Piscopiello,pc,50-1695443
+france,"254,021.98",205605.39,2019-07-03,clothing,McGlynn-Prosacco,Othello Bowes,Maighdiln Upcraft,pc,52-3693331
+luxembourg,"160,185.99",130487.51,2020-09-27,accessories,"Zieme, Bailey and Herzog",Ilsa Kob,Jocelyn Laurentino,pc,98-3033030
+uk,"81,219.67",70319.99,2020-05-20,clothing,Hessel-Stiedemann,Jessamine Apark,Genevra Charrisson,pc,34-5793997
+portugal,"108,412.76",88594.91,2019-08-03,smartphones,Romaguera-Haley,Celine Tumasian,Corene Shirer,mobile,52-7280101
+spain,"42,028.45",36299.97,2020-03-01,other,Hessel-Stiedemann,Emalia Dinse,Perri Aldersley,pc,55-3118263
+sweden,"62,272.96",54600.93,2019-02-20,beauty,Romaguera-Haley,Maxie Marrow,Caro Morfield,pc,58-9822844
+sweden,"91,350.76",75839.4,2019-02-04,games,Tillman and Sons,Maxie Marrow,Alyosha Meah,pc,51-5324396
+uk,"123,272.44",101576.49,2019-01-20,clothing,"Christiansen, Donnelly and Bechtelar",Jessamine Apark,Genevra Charrisson,tablet,99-5465830
+luxembourg,"182,852.21",145440.65,2019-12-28,outdoors,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,pc,01-8696189
+portugal,"118,321.11",94822.54,2020-11-23,electronics,Tillman and Sons,Celine Tumasian,Aurelie Wren,tablet,20-7636879
+uk,"74,295.81",63716.09,2019-04-11,games,"Keeling, Monahan and Pollich",Jessamine Apark,Genevra Charrisson,pc,85-8092784
+uk,"152,865.34",121130.5,2020-12-06,clothing,Konopelski LLC,Jessamine Apark,Genevra Charrisson,pc,97-5905883
+france,"171,458.64",148877.54,2019-08-16,books,McGlynn-Bergstrom,Othello Bowes,Crysta Halls,pc,74-6473826
+uk,"156,177.77",130096.08,2019-12-24,clothing,Johns and Sons,Jessamine Apark,Winny Agnolo,pc,91-0416047
+portugal,"116,023.51",96566.37,2020-06-02,smartphones,Tillman and Sons,Celine Tumasian,Smitty Culverhouse,pc,34-0232219
+france,"70,657.26",61330.5,2020-09-05,other,"Rowe, Hermiston and Kessler",Othello Bowes,Maighdiln Upcraft,pc,34-0783331
+netherlands,"104,152.15",85696.39,2019-05-06,smartphones,"Swaniawski, Runolfsson and Green",Denice Amberg,Nero Harbisher,mobile,30-8215510
+portugal,"84,224.98",68239.08,2019-01-21,appliances,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,mobile,95-3196761
+portugal,"172,505.24",139125.48,2020-10-02,accessories,Romaguera-Haley,Celine Tumasian,Brynn Dempster,pc,99-3651863
+portugal,"89,830.34",76795.96,2019-04-19,games,Johns and Sons,Celine Tumasian,Aurelie Wren,tablet,94-8641337
+netherlands,"353,925.06",287528.72,2020-12-04,clothing,Corwin and Sons,Denice Amberg,Nero Harbisher,pc,36-2694099
+france,"141,436.98",114691.25,2019-05-26,outdoors,Walter LLC,Othello Bowes,Maighdiln Upcraft,pc,40-5308505
+uk,"178,465.40",156282.15,2020-04-27,accessories,Romaguera-Haley,Jessamine Apark,Winny Agnolo,pc,68-8279682
+sweden,"110,092.84",92797.25,2020-06-29,other,"Rowe, Hermiston and Kessler",Maxie Marrow,Anita Woakes,tablet,50-2481520
+uk,"154,715.49",126572.74,2020-10-23,electronics,Smith Group,Jessamine Apark,Genevra Charrisson,pc,46-1054213
+sweden,"92,877.57",75936.7,2020-04-05,electronics,Wisoky Inc,Maxie Marrow,Madelon Bront,mobile,40-9497268
+france,"66,141.13",53435.42,2019-05-26,clothing,Stehr LLC,Othello Bowes,Ora Grennan,pc,54-5107115
+germany,"241,782.39",196544.91,2020-06-09,appliances,Johns and Sons,Rickard Doogood,Casie MacBain,pc,15-7053450
+portugal,"211,872.69",177930.69,2019-07-23,games,Johns and Sons,Celine Tumasian,Hortense Gerring,mobile,36-2012010
+portugal,"170,408.23",143432.61,2020-11-03,clothing,Romaguera-Haley,Celine Tumasian,Aurelie Wren,mobile,61-7521706
+sweden,"157,683.41",130624.94,2019-06-08,electronics,Hegmann Group,Maxie Marrow,Alyosha Meah,tablet,17-0893784
+portugal,"116,157.89",97166.07,2019-11-14,games,"Parisian, Steuber and Satterfield",Celine Tumasian,Hortense Gerring,pc,23-5766200
+france,"56,106.13",45081.27,2020-03-12,electronics,"Rowe, Hermiston and Kessler",Othello Bowes,Amelina Piscopiello,pc,24-3140242
+sweden,"40,385.45",32591.06,2020-07-15,smartphones,Armstrong-Little,Maxie Marrow,Tarrah Castelletti,pc,81-0573181
+uk,"112,491.58",92254.34,2019-10-24,appliances,Hessel-Stiedemann,Jessamine Apark,Genevra Charrisson,mobile,13-1936536
+finland,"200,635.57",172245.64,2019-12-11,clothing,Larkin-Collier,Hube Corey,Wat Bowkley,pc,94-8026718
+portugal,"243,176.92",202250.24,2020-07-03,appliances,Gislason-Stanton,Celine Tumasian,Hortense Gerring,pc,81-5976459
+portugal,"52,227.07",45124.19,2019-03-14,books,"Farrell, Swaniawski and Crist",Celine Tumasian,Corene Shirer,pc,28-6038070
+bulgaria,"147,672.87",129110.39,2019-10-15,electronics,Homenick-Marvin,Charil Alpe,Bernadine Fullagar,pc,81-7970957
+france,"149,500.61",125401.11,2020-07-24,games,McGlynn-Bergstrom,Othello Bowes,Crysta Halls,pc,60-8646184
+france,"53,089.52",44812.86,2019-08-24,beauty,Goldner-Dibbert,Othello Bowes,Crysta Halls,pc,32-2114915
+france,"85,223.07",73002.08,2019-09-15,beauty,"Hamill, Kulas and Roob",Othello Bowes,Maighdiln Upcraft,pc,58-7865136
+denmark,"58,948.52",49416.54,2020-05-20,clothing,Wisoky Inc,Modestia Byfford,Case Desorts,pc,98-9112505
+portugal,"165,696.90",132275.84,2020-10-22,electronics,Franecki-White,Celine Tumasian,Aurelie Wren,pc,03-0455038
+sweden,"177,993.88",145029.41,2019-12-02,outdoors,Johns and Sons,Maxie Marrow,Alyosha Meah,tablet,71-0122842
+france,"108,713.83",90341.19,2020-03-09,clothing,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,pc,55-1395838
+finland,"25,816.05",21447.97,2019-09-08,clothing,Smith Group,Hube Corey,Mellicent Mattys,mobile,95-7886861
+portugal,"154,072.89",121887.06,2020-09-30,beauty,"Rowe, Hermiston and Kessler",Celine Tumasian,Smitty Culverhouse,pc,19-3013452
+finland,"194,962.05",154975.33,2020-07-05,appliances,"Rowe, Hermiston and Kessler",Hube Corey,Mellicent Mattys,pc,54-5082146
+portugal,"60,744.83",52805.48,2020-03-19,smartphones,Gislason-Stanton,Celine Tumasian,Brynn Dempster,pc,69-4462108
+sweden,"39,313.39",34273.41,2020-10-10,beauty,Corwin and Sons,Maxie Marrow,Anita Woakes,mobile,68-3731565
+france,"119,820.82",98289.02,2019-06-16,appliances,Considine-Fisher,Othello Bowes,Amelina Piscopiello,pc,82-2972108
+uk,"129,485.51",112794.83,2019-01-05,appliances,McGlynn-Prosacco,Jessamine Apark,Jay Morefield,pc,15-2503493
+italy,"163,203.64",140893.7,2019-06-21,smartphones,"Swaniawski, Runolfsson and Green",Piggy Roscrigg,Joshua Prevost,pc,37-0857161
+france,"62,788.04",53049.61,2020-02-13,appliances,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,pc,71-2709641
+portugal,"148,037.71",117867.62,2020-04-14,electronics,Romaguera-Dietrich,Celine Tumasian,Corene Shirer,pc,10-5899580
+ireland,"55,539.67",45620.29,2020-03-21,electronics,Altenwerth-Konopelski,Glenine Suttaby,Palm Wetherald,pc,10-9241948
+france,"150,135.00",131067.85,2020-09-09,smartphones,Larkin-Collier,Othello Bowes,Avrit Chanders,pc,68-0080728
+ireland,"85,294.30",72662.21,2020-03-25,beauty,"Zieme, Bailey and Herzog",Glenine Suttaby,Bunnie Tonbridge,pc,47-0640313
+luxembourg,"136,079.62",119178.53,2019-08-29,games,West-Cummings,Ilsa Kob,Jocelyn Laurentino,pc,37-6597365
+finland,"186,397.60",161233.92,2020-12-04,appliances,Friesen and Sons,Hube Corey,Mellicent Mattys,mobile,13-0833129
+germany,"32,695.37",26375.35,2020-11-28,accessories,Johns and Sons,Rickard Doogood,Casie MacBain,mobile,15-2994585
+france,"86,077.83",72288.16,2019-11-03,appliances,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,85-7784608
+sweden,"72,885.55",59773.44,2020-12-29,clothing,Johns and Sons,Maxie Marrow,Anita Woakes,pc,22-3969127
+portugal,"100,469.75",82566.04,2019-05-17,electronics,Johns and Sons,Celine Tumasian,Aurelie Wren,pc,80-2242820
+sweden,"40,831.52",34192.31,2019-04-26,appliances,Labadie and Sons,Maxie Marrow,Madelon Bront,pc,35-1705563
+italy,"142,353.07",116046.22,2019-07-24,books,Dibbert Inc,Piggy Roscrigg,Joshua Prevost,pc,93-9941140
+sweden,"250,315.06",218825.43,2019-07-08,beauty,McGlynn-Prosacco,Maxie Marrow,Alyosha Meah,pc,36-2366573
+uk,"100,094.97",84690.35,2020-11-08,games,"Swaniawski, Runolfsson and Green",Jessamine Apark,Genevra Charrisson,pc,10-9932801
+uk,"77,128.75",65536.3,2020-08-09,books,"Dickinson, Hyatt and Berge",Jessamine Apark,Jay Morefield,mobile,70-8991739
+france,"176,114.73",149257.23,2020-11-24,electronics,Johns and Sons,Othello Bowes,Maighdiln Upcraft,pc,97-4830372
+france,"146,325.53",118333.46,2020-08-09,games,Stehr-Bogan,Othello Bowes,Crysta Halls,pc,95-8015610
+germany,"161,823.46",130494.44,2020-07-20,clothing,Friesen-Rath,Rickard Doogood,Casie MacBain,pc,84-1062113
+sweden,"132,632.97",112035.07,2019-04-23,electronics,"Keeling, Monahan and Pollich",Maxie Marrow,Anita Woakes,pc,05-5082715
+portugal,"107,232.99",85207.33,2020-03-08,appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,pc,35-6942653
+sweden,"120,763.23",96719.27,2020-04-14,clothing,"Murray, Reichel and Nolan",Maxie Marrow,Anita Woakes,pc,79-6623911
+bulgaria,"278,731.90",221591.86,2019-12-05,appliances,West-Cummings,Charil Alpe,Bernadine Fullagar,pc,48-7662634
+bulgaria,"138,153.70",112926.83,2019-02-14,games,McGlynn-Bergstrom,Charil Alpe,Bernadine Fullagar,pc,46-5888587
+ireland,"68,802.13",54635.77,2020-09-15,beauty,Kirlin and Sons,Glenine Suttaby,Bunnie Tonbridge,pc,17-3178991
+finland,"35,619.28",28192.66,2019-01-08,electronics,"Murray, Reichel and Nolan",Hube Corey,Wat Bowkley,pc,18-8528486
+uk,"65,014.84",53669.75,2020-03-27,outdoors,"Dickinson, Hyatt and Berge",Jessamine Apark,Genevra Charrisson,mobile,55-4588115
+germany,"48,922.42",39387.44,2020-10-19,outdoors,"Murray, Reichel and Nolan",Rickard Doogood,Casie MacBain,tablet,19-9073616
+france,"165,262.34",142621.4,2020-05-19,electronics,Altenwerth-Konopelski,Othello Bowes,Amelina Piscopiello,mobile,96-0020600
+portugal,"164,117.24",133509.37,2020-05-28,electronics,"Zieme, Bailey and Herzog",Celine Tumasian,Corene Shirer,pc,88-7664123
+portugal,"238,085.99",193587.72,2020-07-16,clothing,"Rowe, Hermiston and Kessler",Celine Tumasian,Hortense Gerring,pc,17-8884817
+sweden,"117,733.51",97294.97,2019-07-13,electronics,Connelly-Mohr,Maxie Marrow,Tarrah Castelletti,pc,45-5509135
+france,"26,713.46",22043.95,2020-10-12,beauty,Wisoky Inc,Othello Bowes,Ora Grennan,pc,81-4176165
+france,"49,664.17",39244.63,2019-10-30,books,"Swaniawski, Runolfsson and Green",Othello Bowes,Amelina Piscopiello,pc,24-9702599
+sweden,"162,101.93",133912.4,2019-12-19,smartphones,"Rowe, Hermiston and Kessler",Maxie Marrow,Tarrah Castelletti,pc,24-4272786
+france,"118,027.37",96050.67,2019-04-06,beauty,Johns and Sons,Othello Bowes,Ora Grennan,pc,77-3656041
+sweden,"147,994.63",129643.3,2019-01-27,games,Stamm Inc,Maxie Marrow,Alyosha Meah,pc,47-7207206
+finland,"48,946.74",38765.82,2019-04-19,accessories,"Swaniawski, Runolfsson and Green",Hube Corey,Mellicent Mattys,pc,65-2022928
+sweden,"73,860.57",60336.7,2020-11-13,clothing,McGlynn-Prosacco,Maxie Marrow,Madelon Bront,pc,16-5837761
+portugal,"86,083.27",72309.95,2019-11-30,electronics,Connelly-Mohr,Celine Tumasian,Hortense Gerring,pc,80-7090422
+finland,"72,385.53",60181.33,2019-09-10,clothing,Johns and Sons,Hube Corey,Wat Bowkley,pc,66-8222460
+portugal,"120,332.26",102282.42,2020-01-14,clothing,"Parisian, Steuber and Satterfield",Celine Tumasian,Hortense Gerring,tablet,44-0527427
+sweden,"81,262.34",65326.8,2019-09-06,books,Johns and Sons,Maxie Marrow,Anita Woakes,mobile,75-9517276
+austria,"139,075.59",113708.2,2020-12-16,games,"Murray, Reichel and Nolan",Orsa Geekin,Bank Coumbe,pc,24-2403756
+france,"50,516.20",43918.78,2019-03-22,electronics,Wiza and Sons,Othello Bowes,Maighdiln Upcraft,pc,50-1986322
+sweden,"112,228.82",97470.73,2019-09-15,outdoors,Gislason-Stanton,Maxie Marrow,Madelon Bront,pc,75-9585763
+france,"79,833.60",63411.83,2019-06-15,appliances,McGlynn-Bergstrom,Othello Bowes,Avrit Chanders,pc,86-6760202
+finland,"135,629.36",118526.5,2020-08-12,games,Tillman and Sons,Hube Corey,Mellicent Mattys,pc,66-7717800
+luxembourg,"175,332.04",144999.6,2020-09-24,accessories,Hegmann Group,Ilsa Kob,Jocelyn Laurentino,pc,89-8942175
+portugal,"101,923.36",86115.05,2019-01-19,beauty,"Shanahan, Schaden and Parker",Celine Tumasian,Brynn Dempster,mobile,38-0584273
+germany,"190,100.96",160749.37,2019-12-20,electronics,Walter LLC,Rickard Doogood,Casie MacBain,pc,38-8840357
+netherlands,"152,771.90",134423.99,2020-05-02,clothing,McClure Inc,Denice Amberg,Nero Harbisher,pc,82-4495901
+france,"52,805.94",43791.97,2020-06-22,smartphones,Kihn Inc,Othello Bowes,Amelina Piscopiello,pc,81-2373308
+portugal,"51,416.24",43338.75,2020-04-15,smartphones,"Spencer, Rogahn and Muller",Celine Tumasian,Aurelie Wren,pc,15-0224516
+luxembourg,"76,426.54",66116.6,2019-03-16,clothing,O'Connell-Mitchell,Ilsa Kob,Jocelyn Laurentino,pc,95-6935153
+france,"118,021.59",98229.37,2019-04-21,beauty,"Lubowitz, McLaughlin and Erdman",Othello Bowes,Maighdiln Upcraft,pc,60-8661261
+portugal,"59,378.97",52176.3,2020-04-25,appliances,Schoen-Keeling,Celine Tumasian,Corene Shirer,pc,56-2783503
+spain,"61,325.25",49379.09,2020-07-29,beauty,Hessel-Stiedemann,Emalia Dinse,Manuel Goudie,tablet,95-1516475
+france,"80,431.34",69774.19,2019-07-22,beauty,Hessel-Stiedemann,Othello Bowes,Crysta Halls,pc,32-5562588
+portugal,"177,919.14",147370.42,2020-06-07,beauty,Walter LLC,Celine Tumasian,Aurelie Wren,pc,70-7769332
+ireland,"37,520.09",32781.3,2020-05-27,clothing,Kihn Inc,Glenine Suttaby,Bunnie Tonbridge,mobile,07-6200800
+spain,"68,745.86",58014.63,2019-04-09,electronics,Labadie and Sons,Emalia Dinse,Manuel Goudie,pc,11-2988171
+denmark,"69,017.42",55897.21,2020-04-02,electronics,Hegmann Group,Modestia Byfford,Case Desorts,pc,38-3894304
+france,"48,850.38",39788.63,2019-03-31,appliances,"Spencer, Rogahn and Muller",Othello Bowes,Crysta Halls,pc,33-6126082
+netherlands,"253,291.55",219502.46,2020-06-12,books,Altenwerth-Konopelski,Denice Amberg,Nero Harbisher,pc,25-4970452
+portugal,"47,186.74",38112.73,2019-07-28,electronics,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Aurelie Wren,pc,34-8903845
+portugal,"59,670.68",51269.05,2019-09-10,appliances,"Shanahan, Schaden and Parker",Celine Tumasian,Aurelie Wren,pc,32-2110689
+portugal,"228,961.30",183764.34,2020-06-01,appliances,Johns and Sons,Celine Tumasian,Hortense Gerring,pc,37-8204282
+france,"165,259.58",130703.8,2020-06-26,outdoors,Armstrong-Little,Othello Bowes,Crysta Halls,pc,46-1318487
+france,"219,911.81",179426.05,2019-07-05,clothing,Smith Group,Othello Bowes,Crysta Halls,pc,99-3971751
+finland,"55,882.12",48561.56,2020-05-20,clothing,"Murray, Reichel and Nolan",Hube Corey,Mellicent Mattys,pc,24-7985425
+france,"16,388.90",13430.7,2020-03-15,electronics,West-Cummings,Othello Bowes,Crysta Halls,pc,30-9690927
+spain,"85,927.37",74490.44,2019-04-15,clothing,"Hartmann, Hane and Pfannerstill",Emalia Dinse,Perri Aldersley,pc,37-5025811
+france,"161,212.39",138046.17,2020-07-04,accessories,Hilll-Vandervort,Othello Bowes,Crysta Halls,pc,21-6670877
+france,"66,678.38",53009.31,2019-03-04,smartphones,Walter LLC,Othello Bowes,Amelina Piscopiello,pc,34-3119010
+sweden,"148,243.05",120566.07,2020-12-07,beauty,Johns and Sons,Maxie Marrow,Madelon Bront,pc,54-7503816
+ireland,"126,523.36",106368.19,2020-05-14,games,Gleichner-Green,Glenine Suttaby,Bunnie Tonbridge,pc,96-1698894
+ireland,"63,373.72",55572.41,2020-03-03,clothing,"Dickinson, Hyatt and Berge",Glenine Suttaby,Bunnie Tonbridge,pc,92-0523700
+ireland,"76,767.77",64500.28,2020-01-22,games,"Spencer, Rogahn and Muller",Glenine Suttaby,Bunnie Tonbridge,pc,15-3657248
+portugal,"78,938.82",65471.86,2019-04-24,games,"Fisher, Morar and Skiles",Celine Tumasian,Brynn Dempster,pc,16-3423161
+france,"131,864.04",110277.9,2019-04-09,appliances,"Murray, Reichel and Nolan",Othello Bowes,Ora Grennan,pc,67-2684209
+portugal,"116,774.43",98954.65,2019-04-21,accessories,Labadie and Sons,Celine Tumasian,Hortense Gerring,mobile,21-7344983
+france,"141,112.84",120044.69,2020-08-08,electronics,Gislason-Stanton,Othello Bowes,Avrit Chanders,mobile,47-9701762
+bulgaria,"33,210.56",29109.06,2020-11-20,books,Hessel-Stiedemann,Charil Alpe,Bernadine Fullagar,pc,86-3876359
+france,"174,392.33",141449.62,2020-08-03,smartphones,Labadie and Sons,Othello Bowes,Ora Grennan,pc,34-4313860
+sweden,"204,484.61",177308.61,2019-06-16,games,"Hermiston, Simonis and Wisoky",Maxie Marrow,Caro Morfield,tablet,71-4782689
+germany,"80,986.10",64124.79,2019-12-02,appliances,"Dickinson, Hyatt and Berge",Rickard Doogood,Casie MacBain,mobile,85-3690127
+sweden,"179,179.73",154936.71,2019-10-22,books,"Zieme, Bailey and Herzog",Maxie Marrow,Anita Woakes,pc,66-5810051
+netherlands,"99,731.40",84731.8,2020-01-12,electronics,Smith Group,Denice Amberg,Nero Harbisher,pc,81-9170157
+france,"32,661.62",27922.42,2020-02-08,electronics,"Zieme, Bailey and Herzog",Othello Bowes,Amelina Piscopiello,pc,24-7300640
+sweden,"30,166.93",24658.45,2019-11-29,appliances,Corwin and Sons,Maxie Marrow,Tarrah Castelletti,pc,97-1288901
+germany,"36,747.24",31900.28,2019-01-19,accessories,Johns and Sons,Rickard Doogood,Casie MacBain,pc,81-9757849
+france,"66,884.70",58544.18,2020-01-19,smartphones,Wisoky Inc,Othello Bowes,Crysta Halls,pc,44-9179070
+portugal,"165,305.70",134757.21,2019-07-13,games,"Christiansen, Donnelly and Bechtelar",Celine Tumasian,Aurelie Wren,pc,55-2137809
+sweden,"50,618.21",41835.95,2019-03-05,beauty,Hegmann Group,Maxie Marrow,Tarrah Castelletti,pc,56-1063618
+sweden,"82,116.31",70652.87,2020-05-30,beauty,"Zieme, Bailey and Herzog",Maxie Marrow,Caro Morfield,tablet,01-8080546
+sweden,"106,142.65",88151.47,2019-06-04,games,Baumbach Group,Maxie Marrow,Anita Woakes,pc,29-5632797
+portugal,"149,514.00",122646.33,2020-10-18,games,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Smitty Culverhouse,mobile,20-1191256
+sweden,"30,975.79",27072.84,2020-03-15,clothing,McGlynn-Bergstrom,Maxie Marrow,Tarrah Castelletti,pc,33-4022317
+france,"165,118.74",137527.4,2019-11-02,clothing,Smith Group,Othello Bowes,Amelina Piscopiello,pc,59-5892824
+germany,"76,652.73",64311.64,2020-08-04,accessories,"Farrell, Swaniawski and Crist",Rickard Doogood,Casie MacBain,pc,52-3394023
+uk,"151,632.33",120744.82,2020-07-14,clothing,Armstrong-Little,Jessamine Apark,Winny Agnolo,pc,89-5350599
+france,"35,289.75",29424.59,2019-02-26,smartphones,Armstrong-Little,Othello Bowes,Maighdiln Upcraft,pc,92-6298656
+france,"77,043.84",63245.29,2020-02-08,outdoors,Armstrong-Little,Othello Bowes,Avrit Chanders,pc,91-7317758
+portugal,"59,691.71",49239.69,2019-06-17,other,Walter LLC,Celine Tumasian,Hortense Gerring,pc,60-6055725
+portugal,"181,882.43",149834.75,2019-07-28,books,McClure Inc,Celine Tumasian,Corene Shirer,pc,33-2816759
+portugal,"50,796.04",44090.96,2019-09-21,books,"Farrell, Swaniawski and Crist",Celine Tumasian,Hortense Gerring,pc,05-2359767
+netherlands,"73,981.77",61959.73,2019-11-18,clothing,"Hamill, Kulas and Roob",Denice Amberg,Nero Harbisher,pc,73-9492768
+uk,"105,686.13",86694.33,2019-10-13,outdoors,Johns and Sons,Jessamine Apark,Genevra Charrisson,pc,31-6770318
+sweden,"149,376.26",123653.67,2020-01-31,other,"Fisher, Morar and Skiles",Maxie Marrow,Alyosha Meah,pc,52-0695511
+netherlands,"85,237.91",72384.03,2020-03-18,smartphones,Armstrong-Little,Denice Amberg,Nero Harbisher,pc,45-8314773
+luxembourg,"104,743.22",83281.33,2019-03-24,electronics,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,mobile,53-0205940
+portugal,"290,551.74",239530.86,2020-12-14,other,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,pc,53-1660551
+france,"72,314.73",57309.42,2019-08-27,appliances,Johns and Sons,Othello Bowes,Ora Grennan,pc,70-5394452
+netherlands,"119,858.15",99997.65,2020-11-19,electronics,McGlynn-Prosacco,Denice Amberg,Nero Harbisher,pc,10-0386535
+portugal,"119,937.47",98720.53,2019-08-13,games,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Aurelie Wren,pc,56-8476539
+france,"60,592.40",52363.95,2019-02-22,accessories,"Rowe, Hermiston and Kessler",Othello Bowes,Crysta Halls,pc,04-7976277
+ireland,"31,966.82",26593.2,2020-08-24,appliances,Johns and Sons,Glenine Suttaby,Palm Wetherald,pc,21-2965409
+portugal,"83,226.45",71699.59,2020-11-22,beauty,"Swaniawski, Runolfsson and Green",Celine Tumasian,Corene Shirer,pc,04-2788693
+germany,"51,407.30",44292.53,2019-05-02,clothing,Altenwerth-Konopelski,Rickard Doogood,Casie MacBain,tablet,20-6477396
+germany,"61,968.26",50690.04,2020-12-27,electronics,Romaguera-Dietrich,Rickard Doogood,Casie MacBain,pc,22-7259031
+ireland,"271,465.15",217959.37,2019-07-03,electronics,Corwin and Sons,Glenine Suttaby,Bunnie Tonbridge,mobile,44-9239029
+sweden,"86,854.64",72219.63,2020-02-04,books,Tillman and Sons,Maxie Marrow,Tarrah Castelletti,pc,77-4566105
+ireland,"119,819.37",105441.05,2020-12-07,smartphones,Dibbert Inc,Glenine Suttaby,Palm Wetherald,pc,29-3662564
+uk,"160,763.90",131102.96,2019-04-18,appliances,McGlynn-Prosacco,Jessamine Apark,Genevra Charrisson,pc,73-8057834
+sweden,"44,029.07",38344.92,2019-09-09,other,McGlynn-Bergstrom,Maxie Marrow,Alyosha Meah,pc,87-9980890
+france,"86,628.32",72464.59,2019-11-06,appliances,Kihn Inc,Othello Bowes,Crysta Halls,pc,98-8250897
+portugal,"97,641.25",83414.92,2020-10-17,books,Morissette Group,Celine Tumasian,Brynn Dempster,pc,98-3051699
+portugal,"98,746.66",80399.53,2020-02-10,appliances,Considine-Fisher,Celine Tumasian,Smitty Culverhouse,pc,75-7291972
+france,"109,562.50",89917.94,2020-08-05,appliances,"Dickinson, Hyatt and Berge",Othello Bowes,Maighdiln Upcraft,pc,67-3672347
+uk,"60,301.96",48820.47,2019-02-08,beauty,Wiza and Sons,Jessamine Apark,Jay Morefield,pc,75-1785229
+france,"80,781.62",68971.35,2019-01-19,smartphones,McGlynn-Prosacco,Othello Bowes,Ora Grennan,mobile,53-1426071
+france,"238,659.41",204507.25,2019-12-23,appliances,Corwin and Sons,Othello Bowes,Amelina Piscopiello,tablet,49-7167664
+uk,"165,631.75",139114.11,2019-09-03,appliances,Johns and Sons,Jessamine Apark,Jay Morefield,pc,07-7047482
+sweden,"126,682.79",106514.89,2019-06-11,smartphones,"Murray, Reichel and Nolan",Maxie Marrow,Madelon Bront,pc,57-1931933
+sweden,"145,558.00",116257.18,2019-12-20,clothing,Konopelski LLC,Maxie Marrow,Tarrah Castelletti,tablet,15-5167065
+spain,"59,163.79",50419.38,2019-03-11,smartphones,McClure Inc,Emalia Dinse,Perri Aldersley,mobile,98-9382686
+sweden,"140,352.81",122303.44,2019-12-01,smartphones,Hilll-Vandervort,Maxie Marrow,Caro Morfield,pc,47-5733147
+france,"163,401.23",139413.93,2019-04-22,clothing,Wisoky Inc,Othello Bowes,Avrit Chanders,pc,98-2104934
+sweden,"177,867.30",140675.25,2020-10-03,smartphones,Walter LLC,Maxie Marrow,Anita Woakes,pc,30-6005742
+germany,"58,416.81",46745.13,2019-02-07,clothing,Morissette Group,Rickard Doogood,Casie MacBain,pc,21-7461655
+germany,"169,544.95",137568.77,2020-04-12,appliances,"Keeling, Monahan and Pollich",Rickard Doogood,Casie MacBain,mobile,96-7625873
+luxembourg,"74,732.79",64098.31,2020-02-24,beauty,McClure Inc,Ilsa Kob,Jocelyn Laurentino,pc,53-2132479
+portugal,"55,166.78",47443.43,2020-04-13,books,Gislason-Stanton,Celine Tumasian,Hortense Gerring,pc,70-4650708
+france,"99,319.33",79127.71,2020-05-26,games,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,pc,53-3037652
+sweden,"118,982.14",95506.96,2020-01-15,clothing,Stehr-Bogan,Maxie Marrow,Caro Morfield,mobile,76-0774122
+ireland,"157,007.52",126940.58,2019-08-31,beauty,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,pc,72-3928347
+france,"49,374.25",39208.09,2019-05-21,books,Stehr LLC,Othello Bowes,Ora Grennan,pc,87-1399932
+portugal,"123,891.60",104118.5,2019-07-23,games,Hegmann Group,Celine Tumasian,Smitty Culverhouse,pc,25-1045028
+france,"234,340.31",204438.49,2020-12-13,clothing,Hessel-Stiedemann,Othello Bowes,Avrit Chanders,pc,70-0364033
+netherlands,"95,575.75",75504.84,2020-12-23,books,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,pc,35-9372764
+finland,"125,280.28",99372.32,2019-10-18,beauty,Romaguera-Dietrich,Hube Corey,Wat Bowkley,pc,36-1142710
+portugal,"127,482.28",108614.9,2020-08-26,beauty,Hilll-Vandervort,Celine Tumasian,Aurelie Wren,pc,75-6291395
+portugal,"120,453.52",97218.04,2019-02-11,beauty,"Schowalter, Lesch and Beahan",Celine Tumasian,Brynn Dempster,pc,00-3338378
+portugal,"120,152.33",97527.65,2019-09-29,outdoors,Romaguera-Dietrich,Celine Tumasian,Smitty Culverhouse,pc,55-1904761
+portugal,"95,410.97",80593.65,2020-09-22,books,"Murray, Reichel and Nolan",Celine Tumasian,Hortense Gerring,mobile,70-9736399
+france,"128,804.51",105709.86,2019-09-13,appliances,Connelly-Mohr,Othello Bowes,Amelina Piscopiello,tablet,20-3125420
+italy,"26,899.97",23198.53,2019-03-19,games,Hessel-Stiedemann,Piggy Roscrigg,Joshua Prevost,pc,57-2968987
+uk,"123,751.91",102590.33,2019-11-18,smartphones,Johns and Sons,Jessamine Apark,Jay Morefield,pc,76-2146784
+sweden,"37,081.31",31304.04,2019-03-11,beauty,McGlynn-Prosacco,Maxie Marrow,Anita Woakes,pc,19-3129154
+france,"133,905.55",116886.15,2020-08-01,books,"Keeling, Monahan and Pollich",Othello Bowes,Avrit Chanders,mobile,79-0973971
+france,"63,298.61",53645.57,2020-04-10,appliances,"Schowalter, Lesch and Beahan",Othello Bowes,Avrit Chanders,mobile,65-5376517
+france,"274,242.36",227950.25,2020-12-09,outdoors,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,mobile,80-5258827
+luxembourg,"312,928.72",270401.71,2019-12-12,beauty,Altenwerth-Konopelski,Ilsa Kob,Jocelyn Laurentino,tablet,98-5257166
+france,"119,156.18",100710.8,2019-08-20,beauty,Johns and Sons,Othello Bowes,Ora Grennan,pc,19-5610175
+france,"162,123.74",133979.06,2020-04-14,beauty,Johns and Sons,Othello Bowes,Maighdiln Upcraft,pc,94-3509391
+ireland,"65,831.42",52487.39,2019-01-12,electronics,"Christiansen, Donnelly and Bechtelar",Glenine Suttaby,Palm Wetherald,pc,43-5417299
+france,"180,515.09",148852.74,2019-12-26,books,Franecki-White,Othello Bowes,Amelina Piscopiello,pc,68-6141868
+uk,"99,114.91",84217.94,2020-04-04,clothing,Johns and Sons,Jessamine Apark,Winny Agnolo,pc,29-8979189
+portugal,"171,884.00",146702.99,2019-10-13,games,Johns and Sons,Celine Tumasian,Smitty Culverhouse,pc,58-9821508
+denmark,"26,745.94",22600.32,2019-11-10,appliances,Larkin-Collier,Modestia Byfford,Case Desorts,pc,49-1493117
+portugal,"77,087.84",65894.69,2020-05-17,other,"Rowe, Hermiston and Kessler",Celine Tumasian,Aurelie Wren,pc,51-5334556
+france,"87,404.00",69363.81,2019-12-26,electronics,Johns and Sons,Othello Bowes,Maighdiln Upcraft,pc,79-3154360
+france,"47,680.20",40575.85,2019-07-08,clothing,Dibbert Inc,Othello Bowes,Crysta Halls,pc,11-6024248
+finland,"27,824.83",23517.55,2019-09-06,games,McClure Inc,Hube Corey,Wat Bowkley,pc,61-4610981
+portugal,"106,516.40",86928.03,2019-03-21,clothing,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Smitty Culverhouse,pc,12-4509008
+france,"141,948.11",112948.11,2020-04-25,books,Stehr LLC,Othello Bowes,Maighdiln Upcraft,pc,46-5576111
+ireland,"226,021.18",180455.31,2019-07-18,accessories,"Schowalter, Lesch and Beahan",Glenine Suttaby,Palm Wetherald,pc,44-6718687
+italy,"44,232.84",38880.67,2020-02-20,books,Johns and Sons,Piggy Roscrigg,Joshua Prevost,tablet,67-7432229
+ireland,"135,344.52",117492.58,2019-01-17,games,Tillman and Sons,Glenine Suttaby,Palm Wetherald,pc,17-4401585
+france,"271,411.92",231514.37,2019-12-09,clothing,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,tablet,56-9241023
+portugal,"125,253.59",108269.2,2020-02-17,smartphones,"Murray, Reichel and Nolan",Celine Tumasian,Corene Shirer,pc,90-2194359
+sweden,"15,100.57",12113.68,2019-02-20,games,"Murray, Reichel and Nolan",Maxie Marrow,Tarrah Castelletti,pc,89-2424262
+france,"157,932.84",134148.15,2020-01-31,games,"Schowalter, Lesch and Beahan",Othello Bowes,Amelina Piscopiello,pc,30-2982340
+portugal,"64,192.86",52837.14,2020-04-12,appliances,Johns and Sons,Celine Tumasian,Brynn Dempster,pc,10-4704941
+sweden,"156,453.01",128494.86,2020-10-04,clothing,Johns and Sons,Maxie Marrow,Madelon Bront,pc,48-3484986
+finland,"53,616.06",45589.74,2020-01-03,appliances,Kihn Inc,Hube Corey,Wat Bowkley,pc,84-4478396
+finland,"163,967.89",138208.53,2019-05-30,appliances,Friesen-Rath,Hube Corey,Wat Bowkley,tablet,28-0849652
+sweden,"171,748.56",136574.45,2020-11-20,games,Walter LLC,Maxie Marrow,Madelon Bront,pc,74-0214938
+france,"26,103.94",22339.75,2020-08-31,appliances,"Fisher, Morar and Skiles",Othello Bowes,Ora Grennan,tablet,89-0187996
+portugal,"140,337.34",115708.14,2020-09-04,appliances,Hegmann Group,Celine Tumasian,Corene Shirer,pc,65-8218141
+sweden,"33,617.03",26614.6,2020-04-07,appliances,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,pc,49-8489293
+portugal,"187,874.45",160031.46,2019-06-26,accessories,Johns and Sons,Celine Tumasian,Hortense Gerring,pc,91-8142232
+finland,"41,675.01",33765.09,2019-06-25,beauty,"Hamill, Kulas and Roob",Hube Corey,Wat Bowkley,pc,75-5380350
+portugal,"34,930.08",28017.42,2019-11-01,appliances,Kihn Inc,Celine Tumasian,Smitty Culverhouse,pc,35-4551515
+finland,"127,994.87",105800.56,2020-09-01,books,Hegmann Group,Hube Corey,Mellicent Mattys,pc,73-2763209
+portugal,"162,637.68",130402.89,2019-09-27,clothing,Larkin-Collier,Celine Tumasian,Corene Shirer,pc,56-0800364
+portugal,"40,728.28",35669.83,2019-09-22,beauty,Romaguera-Haley,Celine Tumasian,Hortense Gerring,mobile,42-7027181
+finland,"293,767.28",254079.32,2020-06-05,games,West-Cummings,Hube Corey,Wat Bowkley,pc,29-0601002
+sweden,"57,913.36",48693.55,2019-09-11,games,"Murray, Reichel and Nolan",Maxie Marrow,Alyosha Meah,pc,90-2797129
+uk,"63,979.04",56032.84,2019-10-22,games,Schoen-Keeling,Jessamine Apark,Genevra Charrisson,pc,27-3437546
+france,"102,255.86",83379.43,2020-11-12,smartphones,Rath-Schroeder,Othello Bowes,Avrit Chanders,pc,78-3726363
+finland,"107,271.94",86665.0,2020-08-23,games,Johns and Sons,Hube Corey,Wat Bowkley,pc,78-8990131
+austria,"51,090.76",40739.77,2020-03-12,electronics,Smith Group,Orsa Geekin,Bank Coumbe,pc,85-2223377
+sweden,"102,299.92",81706.95,2019-08-22,beauty,"Rowe, Hermiston and Kessler",Maxie Marrow,Alyosha Meah,pc,73-9246627
+france,"144,204.86",115262.94,2020-11-08,books,McClure Inc,Othello Bowes,Amelina Piscopiello,pc,56-7910696
+france,"36,183.97",30579.07,2020-08-09,books,"Bashirian, Okuneva and Bechtelar",Othello Bowes,Avrit Chanders,mobile,91-4296427
+uk,"47,771.76",39234.95,2019-05-29,beauty,Dibbert Inc,Jessamine Apark,Genevra Charrisson,pc,70-8181545
+spain,"44,038.31",36252.34,2020-01-24,electronics,Corwin and Sons,Emalia Dinse,Manuel Goudie,pc,94-0775004
+sweden,"116,469.33",95190.38,2020-01-31,outdoors,"Hermiston, Simonis and Wisoky",Maxie Marrow,Caro Morfield,pc,89-3466746
+uk,"227,856.66",199010.01,2020-07-20,electronics,"Keeling, Monahan and Pollich",Jessamine Apark,Jay Morefield,pc,11-5257937
+sweden,"67,161.99",55764.6,2019-09-20,electronics,"Lubowitz, McLaughlin and Erdman",Maxie Marrow,Tarrah Castelletti,pc,22-7587128
+ireland,"168,178.03",142665.42,2020-04-29,clothing,Walter LLC,Glenine Suttaby,Bunnie Tonbridge,pc,36-7597839
+sweden,"42,611.78",35755.54,2020-03-12,clothing,Walter LLC,Maxie Marrow,Tarrah Castelletti,mobile,16-2824654
+sweden,"166,507.76",143896.01,2020-08-27,accessories,Labadie and Sons,Maxie Marrow,Madelon Bront,pc,49-1743669
+spain,"131,409.90",115325.33,2020-11-15,electronics,McClure Inc,Emalia Dinse,Bertha Walbrook,pc,48-7252604
+portugal,"133,072.00",108600.06,2020-10-28,outdoors,O'Connell-Mitchell,Celine Tumasian,Corene Shirer,pc,07-1769568
+finland,"180,250.02",147354.39,2019-06-03,electronics,"Hartmann, Hane and Pfannerstill",Hube Corey,Mellicent Mattys,pc,57-5645459
+portugal,"48,090.78",42040.96,2020-03-19,books,Kihn Inc,Celine Tumasian,Corene Shirer,pc,13-0740797
+sweden,"168,530.22",136981.36,2020-05-16,appliances,West-Cummings,Maxie Marrow,Tarrah Castelletti,pc,34-9966345
+sweden,"36,785.28",30546.5,2019-08-31,appliances,Johns and Sons,Maxie Marrow,Anita Woakes,pc,91-6738094
+ireland,"126,409.18",104692.08,2020-10-04,smartphones,Dibbert Inc,Glenine Suttaby,Bunnie Tonbridge,pc,32-9007470
+portugal,"49,990.72",42927.03,2020-01-04,electronics,"Rowe, Hermiston and Kessler",Celine Tumasian,Smitty Culverhouse,pc,68-6382353
+sweden,"36,644.05",30491.51,2020-11-20,clothing,Larkin-Collier,Maxie Marrow,Caro Morfield,pc,88-5406813
+sweden,"115,226.80",94336.18,2019-05-15,beauty,Wisoky Inc,Maxie Marrow,Tarrah Castelletti,pc,42-2765593
+finland,"154,078.75",131336.73,2020-09-05,books,"Lueilwitz, Kerluke and Lesch",Hube Corey,Wat Bowkley,pc,76-0724533
+bulgaria,"80,328.16",65836.96,2020-09-23,games,"Hermiston, Simonis and Wisoky",Charil Alpe,Bernadine Fullagar,pc,45-3965395
+portugal,"99,832.12",84128.53,2019-05-15,appliances,Romaguera-Haley,Celine Tumasian,Aurelie Wren,pc,46-6126203
+finland,"133,057.07",113351.32,2020-05-03,other,Romaguera-Dietrich,Hube Corey,Wat Bowkley,pc,27-7554919
+ireland,"80,719.44",64422.19,2019-02-09,appliances,Johns and Sons,Glenine Suttaby,Bunnie Tonbridge,pc,59-1230573
+france,"124,534.96",107012.89,2020-07-18,books,"Dickinson, Hyatt and Berge",Othello Bowes,Maighdiln Upcraft,pc,45-2229786
+sweden,"67,611.54",56191.95,2019-10-30,clothing,Kihn Inc,Maxie Marrow,Caro Morfield,pc,62-7218897
+france,"132,760.25",105039.91,2020-01-07,beauty,"Swaniawski, Runolfsson and Green",Othello Bowes,Crysta Halls,pc,55-4161787
+france,"177,802.70",155079.51,2019-07-18,other,Larkin-Collier,Othello Bowes,Amelina Piscopiello,pc,56-2537757
+bulgaria,"98,963.03",80367.88,2020-10-12,accessories,Wyman Group,Charil Alpe,Bernadine Fullagar,pc,20-0021649
+bulgaria,"126,582.50",103683.73,2020-02-17,beauty,"Rowe, Hermiston and Kessler",Charil Alpe,Bernadine Fullagar,pc,93-2627296
+portugal,"141,965.11",119193.91,2019-09-18,beauty,Friesen and Sons,Celine Tumasian,Hortense Gerring,pc,56-2408571
+ireland,"167,301.52",147074.77,2019-05-06,outdoors,"Christiansen, Donnelly and Bechtelar",Glenine Suttaby,Bunnie Tonbridge,pc,80-3206606
+france,"133,985.91",116741.92,2019-01-15,clothing,Kihn Inc,Othello Bowes,Amelina Piscopiello,pc,48-3190394
+france,"91,540.03",74916.36,2019-09-09,clothing,Kihn Inc,Othello Bowes,Ora Grennan,pc,38-6130023
+uk,"146,055.05",117822.61,2019-10-07,clothing,"Hartmann, Hane and Pfannerstill",Jessamine Apark,Winny Agnolo,tablet,38-2969743
+sweden,"113,586.11",91641.27,2019-02-19,outdoors,Labadie and Sons,Maxie Marrow,Tarrah Castelletti,mobile,48-8166416
+ireland,"135,662.46",116764.68,2020-05-02,beauty,Corwin and Sons,Glenine Suttaby,Palm Wetherald,pc,33-4102367
+portugal,"113,781.45",91104.81,2019-10-08,books,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,pc,44-5240815
+france,"111,462.88",94130.4,2020-09-03,outdoors,Romaguera-Dietrich,Othello Bowes,Avrit Chanders,tablet,70-9378988
+uk,"34,748.75",27475.84,2020-09-27,smartphones,Wiza and Sons,Jessamine Apark,Genevra Charrisson,tablet,84-9385946
+uk,"137,306.45",108732.98,2020-09-04,books,Gislason-Stanton,Jessamine Apark,Winny Agnolo,pc,00-1210718
+portugal,"148,212.23",123030.97,2019-09-10,clothing,Corwin and Sons,Celine Tumasian,Brynn Dempster,pc,92-7917751
+portugal,"159,057.92",139923.25,2020-10-24,smartphones,Johns and Sons,Celine Tumasian,Brynn Dempster,pc,91-3344544
+sweden,"146,226.36",117916.94,2020-10-18,smartphones,"Farrell, Swaniawski and Crist",Maxie Marrow,Alyosha Meah,pc,28-1840061
+portugal,"201,537.12",166127.05,2020-06-10,outdoors,Connelly-Mohr,Celine Tumasian,Brynn Dempster,pc,20-7532198
+portugal,"242,192.19",213104.91,2019-07-02,accessories,"Schowalter, Lesch and Beahan",Celine Tumasian,Smitty Culverhouse,pc,96-7618409
+luxembourg,"172,397.66",139986.9,2019-01-27,clothing,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,pc,47-8186791
+belgium,"152,370.57",128478.86,2019-11-20,games,"Swaniawski, Runolfsson and Green",Lambert Norheny,Collin Mackness,pc,61-8262308
+portugal,"137,419.30",117658.4,2020-05-15,games,Hane Inc,Celine Tumasian,Smitty Culverhouse,mobile,39-1945268
+france,"67,594.10",54920.21,2019-09-26,other,"Rowe, Hermiston and Kessler",Othello Bowes,Amelina Piscopiello,pc,70-1769929
+luxembourg,"72,002.26",56996.99,2019-01-17,appliances,McGlynn-Prosacco,Ilsa Kob,Jocelyn Laurentino,pc,65-0414599
+france,"159,926.16",126453.61,2020-09-12,beauty,McGlynn-Prosacco,Othello Bowes,Ora Grennan,mobile,44-0517932
+france,"65,193.88",53113.45,2019-10-04,beauty,Friesen and Sons,Othello Bowes,Maighdiln Upcraft,pc,74-1131921
+portugal,"105,374.44",89779.02,2020-02-18,electronics,Stehr LLC,Celine Tumasian,Brynn Dempster,pc,74-8625042
+uk,"83,097.40",68148.18,2019-03-22,clothing,Corwin and Sons,Jessamine Apark,Jay Morefield,tablet,36-0185776
+sweden,"139,682.07",113212.32,2020-01-18,games,Tromp LLC,Maxie Marrow,Anita Woakes,pc,98-4157323
+france,"81,095.39",64316.75,2020-09-08,games,"Murray, Reichel and Nolan",Othello Bowes,Avrit Chanders,pc,36-8783637
+bulgaria,"91,108.56",74089.48,2020-06-24,appliances,Stehr LLC,Charil Alpe,Shermy McGready,pc,34-0286364
+luxembourg,"47,182.43",40576.89,2020-02-21,smartphones,Kirlin and Sons,Ilsa Kob,Jocelyn Laurentino,pc,82-0533747
+finland,"161,984.91",138237.92,2020-06-08,appliances,Romaguera-Dietrich,Hube Corey,Mellicent Mattys,pc,59-9184649
+sweden,"116,548.17",92119.67,2020-05-05,clothing,Johns and Sons,Maxie Marrow,Anita Woakes,pc,03-3136289
+portugal,"138,764.60",111414.1,2020-05-10,appliances,Johns and Sons,Celine Tumasian,Brynn Dempster,pc,79-6676714
+france,"148,405.47",128845.63,2019-10-27,electronics,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,82-1082124
+netherlands,"138,249.77",120277.3,2019-08-09,games,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,pc,79-1331359
+portugal,"115,718.87",100640.7,2019-04-24,electronics,Hilll-Vandervort,Celine Tumasian,Aurelie Wren,pc,84-7042200
+portugal,"194,326.70",169005.93,2019-07-07,books,Johns and Sons,Celine Tumasian,Hortense Gerring,mobile,42-5303223
+france,"38,648.72",32368.3,2020-12-04,beauty,"Leffler, Prohaska and Streich",Othello Bowes,Crysta Halls,tablet,04-6732680
+sweden,"58,010.14",46089.06,2019-09-11,appliances,"Bashirian, Okuneva and Bechtelar",Maxie Marrow,Tarrah Castelletti,pc,84-9167618
+france,"82,697.53",69548.62,2020-08-12,games,Kihn Inc,Othello Bowes,Avrit Chanders,pc,47-5319780
+sweden,"68,086.96",58759.05,2019-11-26,electronics,Stamm-Zulauf,Maxie Marrow,Tarrah Castelletti,pc,20-1013432
+bulgaria,"111,106.06",93195.76,2020-11-11,games,"Hermiston, Simonis and Wisoky",Charil Alpe,Bernadine Fullagar,pc,87-5540520
+portugal,"227,830.33",182173.13,2020-06-10,books,O'Connell-Mitchell,Celine Tumasian,Aurelie Wren,pc,59-3526945
+france,"87,355.70",74584.3,2019-02-03,smartphones,Smith Group,Othello Bowes,Crysta Halls,pc,33-4706706
+france,"164,267.72",139069.05,2020-10-08,appliances,Hilll-Vandervort,Othello Bowes,Crysta Halls,pc,51-9052860
+uk,"92,179.76",74794.66,2020-07-25,beauty,"Dickinson, Hyatt and Berge",Jessamine Apark,Jay Morefield,tablet,99-9021526
+sweden,"124,093.76",105231.51,2019-10-15,electronics,Armstrong-Little,Maxie Marrow,Anita Woakes,pc,87-0122224
+uk,"66,391.58",52635.24,2019-12-04,clothing,Friesen and Sons,Jessamine Apark,Winny Agnolo,mobile,88-1711226
+france,"197,471.10",162577.96,2019-06-28,appliances,Johns and Sons,Othello Bowes,Crysta Halls,pc,59-5711012
+uk,"122,627.20",100284.52,2019-05-12,clothing,Wiza and Sons,Jessamine Apark,Winny Agnolo,pc,65-0792739
+uk,"159,052.70",127926.09,2019-06-01,games,Stamm Inc,Jessamine Apark,Genevra Charrisson,pc,75-7245546
+portugal,"85,515.60",67959.25,2019-10-13,games,Larkin-Collier,Celine Tumasian,Brynn Dempster,pc,05-0243828
+portugal,"42,847.46",34757.86,2020-10-22,accessories,Morissette Group,Celine Tumasian,Aurelie Wren,pc,14-9919657
+france,"125,499.82",100977.16,2019-04-08,beauty,"Spencer, Rogahn and Muller",Othello Bowes,Ora Grennan,pc,47-9191500
+finland,"222,379.49",192869.73,2019-07-10,beauty,Labadie and Sons,Hube Corey,Mellicent Mattys,mobile,51-3543971
+portugal,"85,390.17",74400.46,2019-01-25,electronics,Stamm-Zulauf,Celine Tumasian,Brynn Dempster,pc,14-4225824
+portugal,"97,514.70",80790.93,2020-02-12,appliances,Tillman and Sons,Celine Tumasian,Hortense Gerring,pc,88-1349718
+uk,"87,321.89",69254.99,2019-01-17,electronics,Tillman and Sons,Jessamine Apark,Winny Agnolo,mobile,62-5120016
+sweden,"205,059.80",173029.46,2020-06-23,electronics,Stehr-Bogan,Maxie Marrow,Caro Morfield,pc,19-4538571
+portugal,"105,833.52",85312.4,2019-03-20,smartphones,McGlynn-Prosacco,Celine Tumasian,Corene Shirer,pc,01-1212783
+france,"40,043.11",35109.8,2020-09-07,appliances,Romaguera-Haley,Othello Bowes,Ora Grennan,pc,58-8728288
+portugal,"57,859.08",47756.88,2019-12-08,books,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,mobile,95-2190016
+france,"132,235.46",114132.43,2020-06-01,books,"Zieme, Bailey and Herzog",Othello Bowes,Ora Grennan,pc,95-4388709
+uk,"33,724.53",26770.53,2020-01-30,beauty,Gorczany-Lehner,Jessamine Apark,Winny Agnolo,mobile,57-8678621
+ireland,"36,070.76",29339.96,2019-05-17,other,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,mobile,22-4278602
+sweden,"39,457.34",32793.0,2020-10-20,beauty,Morissette Group,Maxie Marrow,Anita Woakes,pc,98-3280428
+italy,"38,536.92",32001.06,2020-05-28,books,"Spencer, Rogahn and Muller",Piggy Roscrigg,Joshua Prevost,mobile,61-4366487
+france,"173,829.96",149824.04,2019-09-23,beauty,Dibbert Inc,Othello Bowes,Amelina Piscopiello,pc,55-2128150
+portugal,"37,521.39",29701.93,2020-01-18,beauty,Friesen-Rath,Celine Tumasian,Hortense Gerring,pc,60-0610487
+portugal,"119,409.43",102656.29,2019-06-25,electronics,"Spencer, Rogahn and Muller",Celine Tumasian,Hortense Gerring,pc,02-9253490
+denmark,"248,261.86",206727.65,2019-12-22,smartphones,Gleichner-Green,Modestia Byfford,Case Desorts,pc,65-2343846
+uk,"96,669.92",76475.57,2020-12-27,appliances,Johns and Sons,Jessamine Apark,Winny Agnolo,mobile,20-0499139
+france,"264,149.91",208757.67,2020-12-20,smartphones,"Schmitt, Purdy and Johnson",Othello Bowes,Avrit Chanders,pc,32-3994860
+portugal,"216,863.04",175355.45,2019-07-24,beauty,"Dickinson, Hyatt and Berge",Celine Tumasian,Corene Shirer,tablet,72-7973717
+france,"140,943.88",120633.87,2020-05-28,appliances,Armstrong-Little,Othello Bowes,Avrit Chanders,tablet,77-0650807
+luxembourg,"82,525.61",68446.74,2019-03-01,clothing,Johns and Sons,Ilsa Kob,Jocelyn Laurentino,pc,34-5150360
+portugal,"19,622.59",17148.18,2020-03-06,clothing,"Fisher, Morar and Skiles",Celine Tumasian,Aurelie Wren,pc,73-4726386
+sweden,"263,713.12",216165.64,2020-06-30,electronics,"Schmitt, Purdy and Johnson",Maxie Marrow,Tarrah Castelletti,pc,78-6165949
+portugal,"284,298.56",229656.38,2020-07-03,clothing,Stehr LLC,Celine Tumasian,Corene Shirer,pc,74-0191565
+sweden,"98,320.37",77722.25,2020-08-23,games,Konopelski LLC,Maxie Marrow,Tarrah Castelletti,tablet,02-3364199
+uk,"128,112.26",104975.19,2020-12-09,books,Hessel-Stiedemann,Jessamine Apark,Jay Morefield,pc,39-8642490
+france,"110,878.97",90588.12,2020-02-06,appliances,Konopelski LLC,Othello Bowes,Amelina Piscopiello,pc,50-8357453
+sweden,"66,225.71",52437.52,2020-09-05,books,Larkin-Collier,Maxie Marrow,Alyosha Meah,pc,68-6900528
+uk,"73,727.91",64047.44,2020-10-11,books,Romaguera-Haley,Jessamine Apark,Winny Agnolo,pc,92-5154775
+denmark,"22,164.96",17938.1,2019-03-14,books,Wyman Group,Modestia Byfford,Case Desorts,pc,60-7777080
+france,"151,855.04",129486.79,2019-01-16,electronics,Considine-Fisher,Othello Bowes,Amelina Piscopiello,pc,54-1473475
+finland,"106,115.85",93063.6,2020-02-15,electronics,Johns and Sons,Hube Corey,Mellicent Mattys,tablet,51-4531731
+france,"89,369.00",72889.36,2020-01-02,smartphones,"Swaniawski, Runolfsson and Green",Othello Bowes,Ora Grennan,pc,20-6735303
+sweden,"106,076.67",84765.87,2019-10-10,electronics,Romaguera-Haley,Maxie Marrow,Madelon Bront,mobile,97-5858605
+netherlands,"23,290.84",19147.4,2019-02-25,electronics,Konopelski LLC,Denice Amberg,Nero Harbisher,pc,02-2183787
+france,"83,340.04",73264.23,2020-05-18,clothing,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,65-5818172
+denmark,"39,287.29",31708.77,2019-03-15,games,Tillman and Sons,Modestia Byfford,Cobby Andersen,pc,03-8586261
+bulgaria,"124,611.61",107776.58,2020-09-19,electronics,Wiza and Sons,Charil Alpe,Shermy McGready,pc,86-0928074
+france,"147,055.10",126114.45,2019-04-15,games,Friesen-Rath,Othello Bowes,Crysta Halls,pc,77-1100434
+ireland,"130,242.41",113050.41,2020-12-30,smartphones,Johns and Sons,Glenine Suttaby,Palm Wetherald,pc,70-7426559
+france,"34,771.79",28509.39,2020-03-19,smartphones,"Rowe, Hermiston and Kessler",Othello Bowes,Maighdiln Upcraft,pc,45-5963143
+portugal,"201,573.23",166116.5,2019-12-05,games,Schuster Inc,Celine Tumasian,Corene Shirer,mobile,94-3590580
+sweden,"71,119.23",59220.98,2019-03-09,books,Johns and Sons,Maxie Marrow,Alyosha Meah,pc,52-5981325
+portugal,"115,538.34",99686.48,2020-01-28,games,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,pc,74-7472724
+portugal,"144,237.38",116111.09,2020-11-05,books,Johns and Sons,Celine Tumasian,Hortense Gerring,pc,03-3965480
+uk,"91,561.49",78266.76,2019-03-25,books,Armstrong-Little,Jessamine Apark,Winny Agnolo,pc,64-4188827
+sweden,"233,858.47",185543.31,2020-06-02,beauty,Romaguera-Dietrich,Maxie Marrow,Alyosha Meah,pc,66-5572109
+uk,"256,388.08",212058.58,2019-12-05,appliances,Tromp LLC,Jessamine Apark,Jay Morefield,mobile,44-2994974
+uk,"125,099.05",108473.39,2020-03-05,books,Dibbert Inc,Jessamine Apark,Genevra Charrisson,pc,30-7981953
+uk,"121,246.32",104005.09,2020-05-30,books,Altenwerth-Konopelski,Jessamine Apark,Winny Agnolo,pc,82-9740062
+finland,"28,538.19",24970.92,2019-05-27,games,Hilll-Vandervort,Hube Corey,Wat Bowkley,pc,28-7069317
+france,"89,930.18",78005.44,2020-03-26,other,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,pc,65-0441590
+sweden,"170,457.80",142809.54,2020-08-14,accessories,"Shanahan, Schaden and Parker",Maxie Marrow,Anita Woakes,pc,60-1991659
+uk,"166,380.74",146049.01,2020-06-23,smartphones,Labadie and Sons,Jessamine Apark,Genevra Charrisson,pc,15-2948501
+france,"116,328.75",93365.45,2019-09-27,appliances,"Schowalter, Lesch and Beahan",Othello Bowes,Crysta Halls,pc,02-6830973
+germany,"230,765.62",195435.4,2019-07-18,beauty,Johns and Sons,Rickard Doogood,Casie MacBain,pc,70-0112393
+portugal,"152,442.32",122258.74,2020-10-06,electronics,Johns and Sons,Celine Tumasian,Aurelie Wren,pc,04-6161825
+sweden,"325,331.99",264592.51,2019-12-23,games,Altenwerth-Konopelski,Maxie Marrow,Caro Morfield,mobile,57-4142025
+uk,"56,768.43",47384.61,2019-04-22,games,Kihn Inc,Jessamine Apark,Winny Agnolo,pc,84-9254695
+portugal,"147,895.45",120416.48,2019-07-01,clothing,Wisoky Inc,Celine Tumasian,Hortense Gerring,mobile,17-1884075
+ireland,"57,107.26",48232.79,2020-02-13,outdoors,Altenwerth-Konopelski,Glenine Suttaby,Bunnie Tonbridge,mobile,49-6263811
+france,"85,337.78",72306.7,2020-02-04,appliances,"Lubowitz, McLaughlin and Erdman",Othello Bowes,Crysta Halls,mobile,78-6287811
+france,"162,199.24",130878.57,2020-06-22,appliances,West-Cummings,Othello Bowes,Avrit Chanders,pc,75-1807214
+sweden,"128,208.95",111746.92,2020-07-31,appliances,Dibbert Inc,Maxie Marrow,Alyosha Meah,pc,72-1300449
+germany,"86,669.23",71580.12,2020-03-18,appliances,Hessel-Stiedemann,Rickard Doogood,Casie MacBain,pc,22-4332301
+ireland,"117,288.29",94546.09,2019-07-04,clothing,Johns and Sons,Glenine Suttaby,Palm Wetherald,pc,42-2477150
+france,"57,292.84",45908.75,2019-10-03,electronics,"Zieme, Bailey and Herzog",Othello Bowes,Ora Grennan,pc,18-5234470
+portugal,"110,441.89",90970.98,2020-01-04,beauty,"Heaney, Gulgowski and Kshlerin",Celine Tumasian,Hortense Gerring,tablet,74-4541594
+uk,"53,801.73",46785.98,2019-09-28,games,Johns and Sons,Jessamine Apark,Jay Morefield,pc,16-6855831
+uk,"308,763.51",245714.0,2020-12-04,outdoors,Kihn Inc,Jessamine Apark,Winny Agnolo,pc,46-5327740
+portugal,"87,409.49",70548.2,2020-11-29,games,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,pc,06-4416964
+denmark,"31,936.44",27708.06,2020-09-17,books,"Hartmann, Hane and Pfannerstill",Modestia Byfford,Cobby Andersen,pc,46-6076582
+sweden,"45,463.65",36907.39,2020-08-29,clothing,Schuster Inc,Maxie Marrow,Alyosha Meah,pc,38-1449694
+sweden,"112,909.40",93940.62,2019-04-25,clothing,Johns and Sons,Maxie Marrow,Madelon Bront,pc,39-3557596
+portugal,"126,346.44",103970.49,2019-04-08,smartphones,Johns and Sons,Celine Tumasian,Corene Shirer,pc,26-9990483
+portugal,"109,713.84",95769.21,2020-05-07,smartphones,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,pc,31-7075495
+netherlands,"200,472.46",170181.07,2020-06-19,electronics,Wiza and Sons,Denice Amberg,Nero Harbisher,pc,98-5774102
+france,"35,214.85",27985.24,2019-03-13,electronics,"Lueilwitz, Kerluke and Lesch",Othello Bowes,Ora Grennan,pc,46-5580805
+ireland,"161,630.62",133991.78,2019-04-04,appliances,Friesen-Rath,Glenine Suttaby,Palm Wetherald,pc,39-6568658
+portugal,"179,184.12",142433.46,2020-05-08,appliances,"Hamill, Kulas and Roob",Celine Tumasian,Brynn Dempster,pc,85-1464621
+sweden,"80,867.18",63982.11,2019-02-12,books,Dibbert Inc,Maxie Marrow,Anita Woakes,pc,86-6763776
+france,"96,613.06",79242.03,2019-04-24,books,Johns and Sons,Othello Bowes,Ora Grennan,pc,03-7559332
+portugal,"89,600.45",70811.24,2020-01-21,games,Wisoky Inc,Celine Tumasian,Smitty Culverhouse,pc,36-7939842
+portugal,"41,921.61",34773.98,2020-11-28,games,Gislason-Stanton,Celine Tumasian,Hortense Gerring,tablet,38-7603760
+uk,"151,012.12",126080.02,2020-08-25,accessories,Johns and Sons,Jessamine Apark,Jay Morefield,pc,11-5630090
+portugal,"112,481.44",96700.29,2020-04-11,electronics,"Dickinson, Hyatt and Berge",Celine Tumasian,Hortense Gerring,mobile,97-6414953
+france,"90,228.68",77966.6,2019-01-27,electronics,Wiza and Sons,Othello Bowes,Avrit Chanders,pc,64-9816105
+uk,"141,552.40",122994.88,2019-09-17,beauty,"Dickinson, Hyatt and Berge",Jessamine Apark,Winny Agnolo,pc,59-0893568
+uk,"29,783.39",23719.49,2019-11-27,books,"Schmitt, Purdy and Johnson",Jessamine Apark,Winny Agnolo,pc,18-0945763
+sweden,"149,938.71",131541.23,2020-12-24,books,Walter LLC,Maxie Marrow,Madelon Bront,pc,26-1771681
+sweden,"103,839.74",90683.24,2020-08-23,books,Schoen-Keeling,Maxie Marrow,Tarrah Castelletti,pc,57-6427586
+portugal,"30,550.32",25457.58,2019-05-31,beauty,"Farrell, Swaniawski and Crist",Celine Tumasian,Smitty Culverhouse,mobile,73-3910940
+sweden,"24,787.65",20454.77,2019-02-12,other,"Lueilwitz, Kerluke and Lesch",Maxie Marrow,Caro Morfield,pc,34-8728117
+france,"122,468.33",103032.61,2020-09-08,electronics,Johns and Sons,Othello Bowes,Avrit Chanders,mobile,53-7680732
+sweden,"137,026.71",120117.61,2020-08-26,smartphones,McGlynn-Bergstrom,Maxie Marrow,Anita Woakes,pc,86-6380587
+finland,"132,246.48",106841.93,2019-01-02,games,Friesen-Rath,Hube Corey,Mellicent Mattys,pc,95-1862126
+portugal,"111,551.96",89420.05,2020-01-06,clothing,Wunsch LLC,Celine Tumasian,Aurelie Wren,pc,41-6241712
+france,"127,946.33",111850.68,2019-09-09,beauty,"Hamill, Kulas and Roob",Othello Bowes,Crysta Halls,pc,32-3418936
+sweden,"78,679.60",62416.53,2019-10-12,games,Stehr LLC,Maxie Marrow,Tarrah Castelletti,pc,10-1511807
+uk,"86,071.63",71198.45,2019-11-13,electronics,Gislason-Stanton,Jessamine Apark,Genevra Charrisson,tablet,66-6360568
+portugal,"134,120.38",105981.92,2020-04-30,games,McGlynn-Bergstrom,Celine Tumasian,Brynn Dempster,pc,63-4386955
+spain,"77,855.47",63545.63,2019-08-13,outdoors,Goldner-Dibbert,Emalia Dinse,Bertha Walbrook,pc,77-3226391
+uk,"176,080.36",153401.21,2019-11-13,beauty,Tillman and Sons,Jessamine Apark,Jay Morefield,pc,74-9554997
+portugal,"159,514.03",138872.91,2020-09-23,clothing,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,pc,37-0756560
+france,"238,850.25",199607.15,2019-06-30,appliances,"Rowe, Hermiston and Kessler",Othello Bowes,Ora Grennan,pc,19-9649739
+sweden,"240,940.97",195138.09,2019-12-27,accessories,Wunsch LLC,Maxie Marrow,Tarrah Castelletti,pc,91-4735064
+denmark,"109,892.92",89441.85,2020-05-06,books,"Lubowitz, McLaughlin and Erdman",Modestia Byfford,Cobby Andersen,pc,82-1337530
+germany,"86,704.08",75380.53,2020-10-05,books,Tillman and Sons,Rickard Doogood,Casie MacBain,pc,39-3209780
+ireland,"292,124.64",245822.88,2019-12-09,beauty,"Christiansen, Donnelly and Bechtelar",Glenine Suttaby,Palm Wetherald,pc,18-0483044
+bulgaria,"122,998.65",97476.43,2020-01-28,games,Armstrong-Little,Charil Alpe,Bernadine Fullagar,pc,70-0044622
+sweden,"50,646.66",43039.53,2020-04-01,clothing,Johns and Sons,Maxie Marrow,Madelon Bront,pc,43-1236055
+sweden,"89,639.28",77788.97,2019-01-25,clothing,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,pc,25-6133000
+spain,"107,359.01",90868.67,2019-10-29,electronics,Kirlin and Sons,Emalia Dinse,Perri Aldersley,pc,78-7666796
+luxembourg,"148,359.68",118480.04,2020-07-23,games,"Dickinson, Hyatt and Berge",Ilsa Kob,Jocelyn Laurentino,pc,45-1867999
+finland,"177,464.83",142717.22,2020-01-25,outdoors,Gislason-Stanton,Hube Corey,Mellicent Mattys,pc,97-5797169
+portugal,"168,757.23",136895.86,2020-08-24,appliances,Labadie and Sons,Celine Tumasian,Aurelie Wren,pc,31-6585710
+france,"19,814.86",16787.15,2020-03-20,appliances,"Murray, Reichel and Nolan",Othello Bowes,Avrit Chanders,pc,84-0460695
+belgium,"46,311.34",40564.1,2020-03-01,accessories,"Heaney, Gulgowski and Kshlerin",Lambert Norheny,Collin Mackness,pc,20-4568650
+france,"144,927.17",122260.56,2020-09-07,appliances,Romaguera-Dietrich,Othello Bowes,Crysta Halls,pc,29-9208067
+netherlands,"203,231.73",163052.82,2019-12-23,books,Schuster Inc,Denice Amberg,Nero Harbisher,pc,21-2357660
+portugal,"40,467.85",34656.67,2020-02-28,smartphones,"Swaniawski, Runolfsson and Green",Celine Tumasian,Corene Shirer,tablet,16-3842379
+sweden,"85,156.70",69479.35,2020-05-19,beauty,"Lubowitz, McLaughlin and Erdman",Maxie Marrow,Caro Morfield,pc,58-5376153
+portugal,"66,146.57",56145.21,2020-04-07,electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,pc,04-1808253
+bulgaria,"230,669.37",182321.07,2019-06-05,books,Altenwerth-Konopelski,Charil Alpe,Bernadine Fullagar,pc,44-9036885
+uk,"59,043.39",48876.12,2020-10-27,smartphones,"Murray, Reichel and Nolan",Jessamine Apark,Genevra Charrisson,pc,35-0548738
+ireland,"99,887.86",84045.65,2020-03-10,electronics,Friesen-Rath,Glenine Suttaby,Bunnie Tonbridge,pc,64-0103144
+netherlands,"214,983.15",180413.86,2019-06-11,beauty,McClure Inc,Denice Amberg,Nero Harbisher,tablet,48-7080069
+portugal,"52,209.31",41480.3,2019-03-26,beauty,McClure Inc,Celine Tumasian,Corene Shirer,pc,05-2772504
+sweden,"83,782.11",67310.55,2019-02-10,electronics,"Christiansen, Donnelly and Bechtelar",Maxie Marrow,Madelon Bront,pc,42-2439801
+portugal,"166,367.16",135788.88,2020-11-02,beauty,Wisoky Inc,Celine Tumasian,Smitty Culverhouse,pc,82-8353642
+uk,"167,615.14",135567.12,2020-12-30,smartphones,Johns and Sons,Jessamine Apark,Winny Agnolo,pc,16-5450021
+sweden,"118,030.70",97304.51,2019-09-04,electronics,"Dickinson, Hyatt and Berge",Maxie Marrow,Madelon Bront,pc,80-1021367
+netherlands,"102,073.04",81770.71,2020-03-02,outdoors,"Farrell, Swaniawski and Crist",Denice Amberg,Nero Harbisher,mobile,03-3076058
+finland,"99,989.89",81191.79,2019-11-15,appliances,Corwin and Sons,Hube Corey,Wat Bowkley,pc,92-4440351
+sweden,"79,407.28",64383.42,2020-07-21,accessories,"Jacobson, Marvin and Brown",Maxie Marrow,Alyosha Meah,pc,15-3268783
+france,"184,431.48",153059.69,2019-12-07,books,Johns and Sons,Othello Bowes,Ora Grennan,mobile,44-7664180
+portugal,"144,725.34",115056.65,2019-01-15,smartphones,Wisoky Inc,Celine Tumasian,Aurelie Wren,pc,92-7042708
+uk,"21,921.66",18802.21,2020-03-05,smartphones,"Swaniawski, Runolfsson and Green",Jessamine Apark,Jay Morefield,tablet,21-8595718
+portugal,"21,341.66",16930.34,2019-03-28,games,Romaguera-Haley,Celine Tumasian,Smitty Culverhouse,pc,06-4611284
+sweden,"84,537.20",69405.04,2020-01-19,games,"Keeling, Monahan and Pollich",Maxie Marrow,Tarrah Castelletti,mobile,04-4730440
+france,"40,544.43",32666.65,2020-08-01,books,Johns and Sons,Othello Bowes,Ora Grennan,pc,89-7467187
+finland,"178,189.57",153421.22,2019-08-09,games,Johns and Sons,Hube Corey,Mellicent Mattys,pc,37-7100862
+france,"36,276.11",28748.82,2019-03-23,games,Johns and Sons,Othello Bowes,Ora Grennan,pc,20-9472915
+sweden,"36,181.81",29698.03,2020-10-27,appliances,Altenwerth-Konopelski,Maxie Marrow,Madelon Bront,tablet,82-8836162
+uk,"66,613.31",55462.24,2019-09-25,electronics,Labadie and Sons,Jessamine Apark,Genevra Charrisson,pc,38-8230515
+ireland,"77,278.68",62951.21,2020-10-02,smartphones,Dibbert Inc,Glenine Suttaby,Palm Wetherald,pc,46-8792953
+uk,"149,938.36",123579.2,2020-11-14,appliances,Johns and Sons,Jessamine Apark,Jay Morefield,pc,93-0380487
+spain,"123,953.65",101939.48,2019-05-08,beauty,Wiza and Sons,Emalia Dinse,Perri Aldersley,pc,44-2650716
+sweden,"73,773.60",58421.31,2020-01-21,books,Tromp LLC,Maxie Marrow,Caro Morfield,mobile,78-7812852
+portugal,"206,869.73",180928.27,2020-07-20,electronics,"Spencer, Rogahn and Muller",Celine Tumasian,Corene Shirer,pc,11-2653878
+france,"63,690.72",53455.62,2020-08-27,electronics,Hegmann Group,Othello Bowes,Crysta Halls,mobile,74-9856135
+uk,"18,897.97",16469.58,2020-02-16,other,Hessel-Stiedemann,Jessamine Apark,Winny Agnolo,mobile,22-8551804
+portugal,"134,807.18",108047.95,2020-12-29,beauty,"Zieme, Bailey and Herzog",Celine Tumasian,Corene Shirer,pc,76-2368068
+uk,"47,082.67",37882.72,2020-06-30,games,"Schowalter, Lesch and Beahan",Jessamine Apark,Winny Agnolo,pc,83-0606533
+portugal,"41,016.31",32985.32,2019-05-09,beauty,Homenick-Marvin,Celine Tumasian,Corene Shirer,tablet,84-1745028
+sweden,"43,243.45",37764.5,2019-05-16,clothing,Johns and Sons,Maxie Marrow,Alyosha Meah,pc,63-2957047
+sweden,"88,832.28",71501.1,2019-12-23,electronics,"Murray, Reichel and Nolan",Maxie Marrow,Tarrah Castelletti,pc,90-3993986
+france,"173,456.40",149866.33,2019-09-25,books,Johns and Sons,Othello Bowes,Avrit Chanders,mobile,00-1398218
+spain,"90,926.92",73050.69,2020-03-24,smartphones,"Leffler, Prohaska and Streich",Emalia Dinse,Perri Aldersley,pc,09-9618844
+sweden,"72,757.01",63378.63,2020-03-05,other,Hessel-Stiedemann,Maxie Marrow,Alyosha Meah,pc,96-5143420
+france,"60,068.71",47688.55,2020-05-09,other,Friesen-Rath,Othello Bowes,Crysta Halls,pc,99-0862667
+france,"105,522.72",86581.39,2019-02-16,clothing,Gislason-Stanton,Othello Bowes,Amelina Piscopiello,pc,79-6118087
+luxembourg,"61,374.06",49099.25,2020-02-20,games,"Murray, Reichel and Nolan",Ilsa Kob,Jocelyn Laurentino,pc,07-5296371
+portugal,"76,856.57",65535.6,2019-05-31,clothing,"Schowalter, Lesch and Beahan",Celine Tumasian,Hortense Gerring,pc,93-9111830
+spain,"174,262.11",143278.31,2019-04-05,games,Hessel-Stiedemann,Emalia Dinse,Perri Aldersley,pc,47-0713476
+sweden,"151,315.26",121173.26,2019-05-23,beauty,Wiza and Sons,Maxie Marrow,Caro Morfield,pc,92-2645259
+ireland,"50,495.53",40749.89,2020-08-31,smartphones,"Heaney, Gulgowski and Kshlerin",Glenine Suttaby,Palm Wetherald,mobile,93-4118211
+uk,"36,534.09",31138.0,2020-07-17,appliances,Wunsch LLC,Jessamine Apark,Winny Agnolo,pc,90-7039701
+france,"134,243.39",113019.51,2019-01-21,beauty,Kihn Inc,Othello Bowes,Maighdiln Upcraft,pc,64-1003834
+france,"56,068.70",47378.05,2019-02-06,games,"Dickinson, Hyatt and Berge",Othello Bowes,Ora Grennan,pc,24-2679038
+france,"31,161.76",27300.82,2020-05-09,beauty,"Hermiston, Simonis and Wisoky",Othello Bowes,Maighdiln Upcraft,mobile,06-4986886
+france,"98,915.41",85176.06,2020-04-02,electronics,Schoen-Keeling,Othello Bowes,Ora Grennan,mobile,63-5897834
+ireland,"114,232.68",95795.52,2019-03-23,clothing,Johns and Sons,Glenine Suttaby,Bunnie Tonbridge,tablet,45-6860897
+luxembourg,"71,360.36",59750.03,2019-01-02,electronics,Tillman and Sons,Ilsa Kob,Jocelyn Laurentino,pc,40-9830607
+portugal,"87,459.79",69967.83,2020-11-16,beauty,Romaguera-Haley,Celine Tumasian,Brynn Dempster,mobile,09-8360520
+finland,"52,388.85",45641.17,2020-07-31,electronics,Johns and Sons,Hube Corey,Mellicent Mattys,pc,55-6785409
+sweden,"178,304.35",153573.54,2020-12-09,electronics,Dibbert Inc,Maxie Marrow,Tarrah Castelletti,pc,12-4881666
+uk,"80,013.81",65587.32,2020-01-27,electronics,Romaguera-Dietrich,Jessamine Apark,Winny Agnolo,pc,86-7866497
+ireland,"88,684.70",75337.65,2020-01-23,other,"Leffler, Prohaska and Streich",Glenine Suttaby,Palm Wetherald,pc,12-2375671
+uk,"161,773.31",138283.83,2019-04-30,books,Johns and Sons,Jessamine Apark,Jay Morefield,pc,56-6310976
+france,"108,968.67",88395.39,2019-10-17,books,Johns and Sons,Othello Bowes,Ora Grennan,pc,08-4398900
+uk,"50,374.22",44047.22,2019-10-07,games,Armstrong-Little,Jessamine Apark,Genevra Charrisson,pc,23-3084772
+sweden,"174,380.20",151518.96,2019-01-02,appliances,Larkin-Collier,Maxie Marrow,Tarrah Castelletti,pc,33-8484080
+bulgaria,"81,482.69",64721.7,2019-02-09,electronics,Johns and Sons,Charil Alpe,Shermy McGready,pc,28-0362135
+france,"108,158.80",89328.35,2020-10-09,appliances,Altenwerth-Konopelski,Othello Bowes,Crysta Halls,pc,53-4511393
+portugal,"76,943.74",62870.73,2019-06-01,electronics,Johns and Sons,Celine Tumasian,Smitty Culverhouse,pc,50-0521963
+portugal,"57,345.79",45716.06,2020-11-09,clothing,Walter LLC,Celine Tumasian,Hortense Gerring,pc,75-6127722
+sweden,"71,049.09",58842.86,2019-08-15,outdoors,Corwin and Sons,Maxie Marrow,Madelon Bront,pc,99-3994854
+france,"79,205.19",65423.49,2019-05-07,games,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Avrit Chanders,tablet,45-5157875
+france,"42,290.45",34255.26,2019-11-10,clothing,Walter LLC,Othello Bowes,Avrit Chanders,tablet,97-8921759
+france,"110,090.36",93433.69,2019-02-01,clothing,"Leffler, Prohaska and Streich",Othello Bowes,Maighdiln Upcraft,pc,43-6672888
+france,"121,043.69",96750.22,2020-09-28,books,Hessel-Stiedemann,Othello Bowes,Crysta Halls,pc,28-6152726
+finland,"130,251.55",105386.53,2019-08-05,beauty,Johns and Sons,Hube Corey,Mellicent Mattys,pc,26-1201622
+france,"156,110.40",132584.56,2019-07-22,beauty,Stehr LLC,Othello Bowes,Maighdiln Upcraft,pc,18-3315246
+sweden,"122,273.00",104531.19,2020-01-07,appliances,Romaguera-Haley,Maxie Marrow,Caro Morfield,pc,40-9114557
+portugal,"126,021.10",101762.04,2020-06-13,beauty,Johns and Sons,Celine Tumasian,Hortense Gerring,mobile,34-8443139
+sweden,"69,565.47",57808.91,2020-05-23,beauty,Johns and Sons,Maxie Marrow,Anita Woakes,pc,79-0393736
+bulgaria,"174,271.91",142083.89,2019-05-20,clothing,Hessel-Stiedemann,Charil Alpe,Shermy McGready,pc,58-2923511
+portugal,"61,994.02",54250.97,2019-02-19,books,Friesen-Rath,Celine Tumasian,Corene Shirer,pc,84-1343954
+sweden,"207,379.28",166442.61,2019-12-18,accessories,Franecki-White,Maxie Marrow,Anita Woakes,pc,43-9259516
+sweden,"153,823.74",129258.09,2020-11-30,electronics,West-Cummings,Maxie Marrow,Anita Woakes,mobile,53-0009701
+portugal,"251,003.51",214105.99,2019-07-30,clothing,Hilll-Vandervort,Celine Tumasian,Hortense Gerring,pc,50-2002828
+uk,"78,013.63",64509.47,2020-04-04,clothing,"Keeling, Monahan and Pollich",Jessamine Apark,Genevra Charrisson,pc,90-6933957
+finland,"204,138.34",165617.44,2019-06-20,clothing,"Hartmann, Hane and Pfannerstill",Hube Corey,Wat Bowkley,tablet,98-4201877
+ireland,"81,358.58",68918.85,2020-08-21,books,Tillman and Sons,Glenine Suttaby,Palm Wetherald,mobile,86-2962836
+portugal,"81,458.94",64434.02,2019-11-14,books,Johns and Sons,Celine Tumasian,Aurelie Wren,pc,76-5324325
+sweden,"79,313.86",63316.25,2020-03-01,appliances,"Dickinson, Hyatt and Berge",Maxie Marrow,Madelon Bront,pc,36-3226083
+finland,"100,978.49",86568.86,2019-08-09,appliances,Johns and Sons,Hube Corey,Wat Bowkley,pc,00-8086430
+portugal,"172,444.09",149681.47,2019-01-05,smartphones,Larkin-Collier,Celine Tumasian,Hortense Gerring,pc,98-0946281
+uk,"111,523.01",98017.57,2020-03-02,outdoors,Kihn Inc,Jessamine Apark,Winny Agnolo,pc,82-4770311
+uk,"62,947.82",49967.98,2019-10-16,accessories,"Schowalter, Lesch and Beahan",Jessamine Apark,Genevra Charrisson,pc,34-0265266
+france,"80,294.56",65295.54,2019-10-04,books,Considine-Fisher,Othello Bowes,Avrit Chanders,pc,47-9858688
+france,"234,961.46",199388.3,2019-06-02,accessories,"Heaney, Gulgowski and Kshlerin",Othello Bowes,Maighdiln Upcraft,mobile,24-9178520
+france,"214,615.79",177637.49,2019-06-30,games,"Bashirian, Okuneva and Bechtelar",Othello Bowes,Amelina Piscopiello,pc,17-5553034
+france,"173,418.59",140746.53,2019-05-19,electronics,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,pc,03-5073152
+france,"27,400.69",22832.99,2019-09-18,electronics,Friesen and Sons,Othello Bowes,Maighdiln Upcraft,pc,19-8109416
+portugal,"179,323.22",150739.1,2020-08-08,smartphones,Homenick-Marvin,Celine Tumasian,Brynn Dempster,tablet,16-5710075
+portugal,"135,211.42",108534.21,2019-08-12,clothing,Larkin-Collier,Celine Tumasian,Corene Shirer,pc,78-5541691
+france,"186,209.44",148818.58,2019-06-24,clothing,Friesen-Rath,Othello Bowes,Avrit Chanders,mobile,69-8016438
+ireland,"127,591.73",108988.86,2020-04-30,games,"Swaniawski, Runolfsson and Green",Glenine Suttaby,Palm Wetherald,mobile,43-7205800
+sweden,"53,093.47",42533.18,2020-10-25,clothing,Romaguera-Haley,Maxie Marrow,Anita Woakes,pc,84-2496865
+netherlands,"28,787.17",24610.15,2019-08-06,games,McGlynn-Prosacco,Denice Amberg,Nero Harbisher,pc,13-4700827
+uk,"49,930.87",40174.38,2020-02-21,outdoors,Labadie and Sons,Jessamine Apark,Genevra Charrisson,pc,10-5202864
+portugal,"48,763.58",39435.11,2020-07-14,smartphones,Labadie and Sons,Celine Tumasian,Smitty Culverhouse,pc,29-6521179
+france,"71,079.80",56778.54,2019-11-15,electronics,"Swaniawski, Runolfsson and Green",Othello Bowes,Avrit Chanders,pc,30-9137723
+sweden,"43,158.94",36244.88,2019-05-13,electronics,West-Cummings,Maxie Marrow,Anita Woakes,pc,55-4422832
+france,"117,538.82",100719.02,2019-07-03,beauty,Wisoky Inc,Othello Bowes,Avrit Chanders,pc,12-1257338
+portugal,"45,725.53",36571.28,2020-07-07,other,Schoen-Keeling,Celine Tumasian,Aurelie Wren,mobile,66-6777720
+portugal,"77,522.57",64227.45,2019-07-31,outdoors,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,mobile,53-3568171
+germany,"44,118.50",38250.74,2020-03-04,electronics,Romaguera-Dietrich,Rickard Doogood,Casie MacBain,mobile,77-6124790
+uk,"242,526.00",212113.24,2019-06-03,clothing,Hegmann Group,Jessamine Apark,Winny Agnolo,pc,09-3668672
+france,"140,635.94",115194.9,2020-12-08,smartphones,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,00-5823706
+portugal,"157,754.36",132166.6,2019-08-09,books,"Bashirian, Okuneva and Bechtelar",Celine Tumasian,Aurelie Wren,mobile,67-8646070
+france,"88,977.22",72534.23,2020-10-03,books,Franecki-White,Othello Bowes,Ora Grennan,pc,58-1975365
+portugal,"74,231.25",61604.51,2019-11-11,beauty,Gislason-Stanton,Celine Tumasian,Brynn Dempster,mobile,99-7842298
+sweden,"131,402.37",106383.36,2019-10-03,beauty,Johns and Sons,Maxie Marrow,Anita Woakes,pc,80-8019337
+sweden,"156,505.37",128647.41,2019-05-04,electronics,"Schmitt, Purdy and Johnson",Maxie Marrow,Alyosha Meah,pc,76-8416893
+portugal,"139,200.81",120172.06,2019-08-23,games,Johns and Sons,Celine Tumasian,Brynn Dempster,pc,19-3893110
+sweden,"121,292.94",104384.7,2019-03-23,beauty,Schoen-Keeling,Maxie Marrow,Tarrah Castelletti,pc,17-3994138
+france,"84,712.13",73004.91,2020-07-11,books,Altenwerth-Konopelski,Othello Bowes,Ora Grennan,pc,29-8090560
+portugal,"172,202.38",149816.07,2019-04-09,appliances,Morissette Group,Celine Tumasian,Hortense Gerring,tablet,75-5652593
+sweden,"108,978.79",95432.73,2019-11-28,games,"Bashirian, Okuneva and Bechtelar",Maxie Marrow,Madelon Bront,pc,84-5276032
+portugal,"69,871.92",58014.66,2020-09-06,games,Johns and Sons,Celine Tumasian,Smitty Culverhouse,pc,01-4729172
+france,"184,221.20",150324.5,2019-06-15,electronics,Hessel-Stiedemann,Othello Bowes,Amelina Piscopiello,pc,70-3373325
+france,"57,348.43",47587.73,2019-01-12,clothing,Hessel-Stiedemann,Othello Bowes,Crysta Halls,pc,73-6329299
+france,"197,581.29",169485.23,2019-12-13,electronics,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Ora Grennan,pc,74-6221213
+portugal,"101,321.52",86710.96,2019-02-17,games,Dibbert Inc,Celine Tumasian,Brynn Dempster,pc,53-1326953
+uk,"124,234.91",98244.97,2020-09-19,outdoors,Johns and Sons,Jessamine Apark,Genevra Charrisson,pc,56-7081196
+portugal,"254,883.03",213413.56,2019-12-12,appliances,"Dickinson, Hyatt and Berge",Celine Tumasian,Corene Shirer,pc,85-9560144
+france,"57,333.85",46308.55,2020-10-24,other,Goldner-Dibbert,Othello Bowes,Amelina Piscopiello,pc,35-9605742
+portugal,"65,760.39",56672.3,2020-10-09,smartphones,"Schowalter, Lesch and Beahan",Celine Tumasian,Aurelie Wren,pc,30-0037690
+portugal,"53,485.00",46713.8,2020-02-18,clothing,Johns and Sons,Celine Tumasian,Corene Shirer,pc,75-6038587
+france,"154,950.74",133195.66,2019-10-09,smartphones,Kihn Inc,Othello Bowes,Crysta Halls,tablet,45-8966277
+uk,"19,949.11",16364.25,2019-02-25,beauty,Smith Group,Jessamine Apark,Winny Agnolo,tablet,23-0941629
+france,"124,784.67",106853.11,2020-05-22,electronics,"Swaniawski, Runolfsson and Green",Othello Bowes,Ora Grennan,tablet,44-2757396
+luxembourg,"120,831.28",95746.71,2020-05-22,outdoors,Stamm-Zulauf,Ilsa Kob,Jocelyn Laurentino,pc,21-4464304
+portugal,"127,631.89",110963.17,2019-11-24,clothing,"Schowalter, Lesch and Beahan",Celine Tumasian,Corene Shirer,pc,02-8721192
+luxembourg,"68,984.17",59560.93,2019-01-11,beauty,"Schmitt, Purdy and Johnson",Ilsa Kob,Jocelyn Laurentino,pc,46-9710750
+france,"56,823.17",46583.63,2019-12-21,beauty,"Rowe, Hermiston and Kessler",Othello Bowes,Ora Grennan,mobile,26-1781486
+portugal,"126,974.92",101516.45,2019-01-13,games,Larkin-Collier,Celine Tumasian,Hortense Gerring,pc,57-7927520
+portugal,"121,736.23",106214.86,2020-05-06,accessories,"Zieme, Bailey and Herzog",Celine Tumasian,Smitty Culverhouse,pc,95-4271285
+france,"150,287.47",123611.44,2020-08-05,books,"Fisher, Morar and Skiles",Othello Bowes,Avrit Chanders,pc,66-4296261
+finland,"93,007.22",81837.05,2020-11-09,outdoors,McGlynn-Prosacco,Hube Corey,Wat Bowkley,pc,24-8477374
+ireland,"165,747.20",132912.68,2020-01-21,books,"Farrell, Swaniawski and Crist",Glenine Suttaby,Bunnie Tonbridge,pc,96-1991854
+sweden,"177,215.51",155807.88,2019-05-07,clothing,"Schmitt, Purdy and Johnson",Maxie Marrow,Alyosha Meah,pc,54-3353166
+france,"99,132.04",78819.89,2020-03-21,smartphones,Kirlin and Sons,Othello Bowes,Avrit Chanders,pc,44-6408586
+germany,"180,519.86",145968.36,2019-07-04,games,"Jacobson, Marvin and Brown",Rickard Doogood,Casie MacBain,pc,86-6107692
+france,"68,173.22",54040.91,2020-11-14,smartphones,Larkin-Collier,Othello Bowes,Amelina Piscopiello,pc,89-7513050
+portugal,"97,439.36",79773.6,2019-08-08,games,Labadie and Sons,Celine Tumasian,Brynn Dempster,pc,54-2767741
+sweden,"103,638.67",84030.23,2020-10-22,electronics,"Leffler, Prohaska and Streich",Maxie Marrow,Anita Woakes,pc,24-6905998
+sweden,"169,810.63",145952.24,2020-11-28,smartphones,"Schowalter, Lesch and Beahan",Maxie Marrow,Caro Morfield,pc,35-0173281
+france,"75,264.84",61694.59,2020-09-16,clothing,Tillman and Sons,Othello Bowes,Ora Grennan,mobile,93-5465623
+spain,"58,933.16",51855.29,2019-09-20,electronics,"Schowalter, Lesch and Beahan",Emalia Dinse,Bertha Walbrook,mobile,67-2823354
+portugal,"168,773.60",137398.59,2019-08-22,games,Tillman and Sons,Celine Tumasian,Corene Shirer,pc,28-0622425
+portugal,"152,676.77",122385.7,2020-07-07,outdoors,"Spencer, Rogahn and Muller",Celine Tumasian,Smitty Culverhouse,pc,84-0679518
+portugal,"116,556.81",95448.37,2020-05-24,outdoors,"Hermiston, Simonis and Wisoky",Celine Tumasian,Hortense Gerring,pc,95-1195568
+france,"310,539.00",248275.93,2020-12-11,electronics,Johns and Sons,Othello Bowes,Ora Grennan,pc,57-2495984
+portugal,"106,325.72",92705.4,2019-09-19,games,Goldner-Dibbert,Celine Tumasian,Aurelie Wren,mobile,77-5229094
+sweden,"90,602.07",71630.0,2020-03-05,electronics,McGlynn-Bergstrom,Maxie Marrow,Tarrah Castelletti,pc,09-3747816
+spain,"120,012.56",97762.23,2020-05-11,games,"Schmitt, Purdy and Johnson",Emalia Dinse,Bertha Walbrook,mobile,62-9738356
+france,"143,658.22",123158.19,2020-10-30,appliances,Wisoky Inc,Othello Bowes,Amelina Piscopiello,pc,22-6938537
+portugal,"263,571.82",216155.25,2020-06-08,outdoors,"Dickinson, Hyatt and Berge",Celine Tumasian,Aurelie Wren,pc,11-0955383
+france,"131,097.05",109203.84,2020-06-26,beauty,Larkin-Collier,Othello Bowes,Maighdiln Upcraft,pc,80-1374023
+italy,"127,830.38",103874.97,2020-05-21,games,Romaguera-Dietrich,Piggy Roscrigg,Joshua Prevost,pc,66-7112079
+portugal,"129,353.22",111593.02,2019-01-18,games,Kihn Inc,Celine Tumasian,Corene Shirer,mobile,31-2600204
+sweden,"176,473.32",139413.92,2019-06-22,games,Wisoky Inc,Maxie Marrow,Anita Woakes,pc,00-7031798
+denmark,"43,609.57",34634.72,2020-03-01,appliances,Walter LLC,Modestia Byfford,Cobby Andersen,pc,20-1827241
+portugal,"137,562.42",112140.88,2020-04-14,clothing,Dibbert Inc,Celine Tumasian,Hortense Gerring,pc,80-5941460
+france,"51,504.50",44592.6,2019-09-22,appliances,Dibbert Inc,Othello Bowes,Amelina Piscopiello,pc,17-3240628
+france,"38,750.53",31298.8,2019-09-01,outdoors,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,22-5929243
+france,"111,676.46",92791.97,2019-06-08,beauty,Armstrong-Little,Othello Bowes,Ora Grennan,pc,35-7483371
+sweden,"46,849.71",39630.17,2019-08-26,beauty,"Leffler, Prohaska and Streich",Maxie Marrow,Anita Woakes,pc,71-1921602
+sweden,"296,844.24",244926.18,2019-06-08,other,Walter LLC,Maxie Marrow,Tarrah Castelletti,pc,22-9949979
+portugal,"163,492.16",134178.02,2020-08-12,appliances,"Shanahan, Schaden and Parker",Celine Tumasian,Corene Shirer,pc,06-8466490
+france,"116,206.87",93104.94,2019-04-15,games,"Keeling, Monahan and Pollich",Othello Bowes,Amelina Piscopiello,pc,34-6603897
+france,"195,214.72",154649.1,2019-06-26,books,"Keeling, Monahan and Pollich",Othello Bowes,Maighdiln Upcraft,pc,92-3462655
+france,"168,226.52",136818.63,2020-01-25,smartphones,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,pc,26-9826298
+sweden,"249,842.77",218737.35,2020-07-09,books,Hessel-Stiedemann,Maxie Marrow,Alyosha Meah,pc,39-5542863
+netherlands,"105,678.39",89720.95,2020-05-07,games,Hegmann Group,Denice Amberg,Nero Harbisher,mobile,18-1809309
+portugal,"253,580.08",212449.39,2020-07-06,games,Wyman Group,Celine Tumasian,Brynn Dempster,pc,51-0837613
+france,"56,705.66",46986.31,2019-02-01,outdoors,Johns and Sons,Othello Bowes,Crysta Halls,pc,46-0117523
+sweden,"35,354.22",30517.76,2019-02-27,smartphones,"Dickinson, Hyatt and Berge",Maxie Marrow,Caro Morfield,pc,58-1079558
+portugal,"25,834.34",22450.04,2020-03-13,electronics,Romaguera-Dietrich,Celine Tumasian,Brynn Dempster,mobile,49-9010863
+portugal,"121,928.48",98408.48,2019-09-19,clothing,Altenwerth-Konopelski,Celine Tumasian,Brynn Dempster,mobile,58-2028009
+france,"167,935.31",137942.06,2019-04-18,games,Romaguera-Haley,Othello Bowes,Amelina Piscopiello,pc,03-4045721
+portugal,"151,151.77",124035.14,2019-12-30,appliances,"Rowe, Hermiston and Kessler",Celine Tumasian,Aurelie Wren,pc,80-3039005
+france,"95,966.17",75976.42,2019-08-24,electronics,Littel-Blick,Othello Bowes,Amelina Piscopiello,pc,90-4449856
+portugal,"123,424.43",98171.79,2019-04-11,clothing,"Spencer, Rogahn and Muller",Celine Tumasian,Corene Shirer,pc,82-2837449
+france,"128,221.13",102217.88,2020-06-21,clothing,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,21-4033151
+portugal,"204,133.95",167553.15,2020-06-13,games,"Leffler, Prohaska and Streich",Celine Tumasian,Corene Shirer,pc,98-6563368
+sweden,"89,376.84",73646.52,2019-02-17,beauty,Johns and Sons,Maxie Marrow,Alyosha Meah,pc,21-2589548
+sweden,"110,837.96",92106.34,2019-02-25,electronics,"Dickinson, Hyatt and Berge",Maxie Marrow,Alyosha Meah,pc,52-7049356
+netherlands,"118,026.37",99873.91,2020-07-04,appliances,Hessel-Stiedemann,Denice Amberg,Nero Harbisher,pc,35-1708827
+portugal,"177,208.76",151779.3,2019-01-02,appliances,Romaguera-Dietrich,Celine Tumasian,Smitty Culverhouse,mobile,22-1266257
+sweden,"97,148.34",77806.11,2020-04-29,books,Romaguera-Dietrich,Maxie Marrow,Tarrah Castelletti,pc,44-9978904
+spain,"144,530.35",115407.48,2020-08-04,other,"Swaniawski, Runolfsson and Green",Emalia Dinse,Manuel Goudie,pc,63-1220717
+sweden,"45,261.84",37816.27,2020-11-21,beauty,Tillman and Sons,Maxie Marrow,Madelon Bront,pc,40-0265810
+bulgaria,"105,277.20",90759.47,2019-11-21,books,"Spencer, Rogahn and Muller",Charil Alpe,Shermy McGready,pc,56-6094665
+denmark,"65,822.05",54790.27,2020-11-11,clothing,"Keeling, Monahan and Pollich",Modestia Byfford,Case Desorts,pc,75-3776704
+france,"78,540.62",63987.04,2019-10-08,clothing,Considine-Fisher,Othello Bowes,Crysta Halls,pc,55-1050582
+italy,"37,636.91",30847.21,2020-03-16,appliances,West-Cummings,Piggy Roscrigg,Joshua Prevost,mobile,78-8602908
+portugal,"138,127.81",115240.03,2020-05-24,appliances,"Hamill, Kulas and Roob",Celine Tumasian,Corene Shirer,pc,30-3460885
+ireland,"37,892.58",30010.92,2019-01-21,electronics,Johns and Sons,Glenine Suttaby,Palm Wetherald,pc,59-0348389
+bulgaria,"65,329.65",53237.13,2020-02-26,clothing,"Christiansen, Donnelly and Bechtelar",Charil Alpe,Shermy McGready,mobile,91-7447818
+france,"167,072.72",135044.88,2019-10-21,clothing,O'Connell-Mitchell,Othello Bowes,Ora Grennan,pc,37-6449638
+france,"164,243.32",134121.1,2019-05-20,smartphones,Kirlin and Sons,Othello Bowes,Amelina Piscopiello,pc,38-2806168
+france,"174,951.18",142690.18,2019-09-18,clothing,Tillman and Sons,Othello Bowes,Amelina Piscopiello,mobile,09-7737652
+portugal,"98,521.87",84571.17,2020-01-02,clothing,Johns and Sons,Celine Tumasian,Brynn Dempster,pc,29-1727395
+portugal,"69,750.57",60731.82,2019-03-19,games,Johns and Sons,Celine Tumasian,Hortense Gerring,pc,92-4695001
+portugal,"129,022.02",104585.25,2020-06-20,electronics,Walter LLC,Celine Tumasian,Corene Shirer,pc,51-2167412
+portugal,"41,805.53",33352.45,2019-03-23,appliances,"Abbott, Roberts and Torp",Celine Tumasian,Brynn Dempster,tablet,27-7169008
+finland,"145,809.65",123136.25,2019-07-30,appliances,O'Connell-Mitchell,Hube Corey,Mellicent Mattys,pc,96-5231814
+france,"29,443.71",23958.35,2020-10-29,appliances,Johns and Sons,Othello Bowes,Ora Grennan,pc,03-2027170
+sweden,"138,443.23",115101.7,2019-06-14,clothing,Wyman Group,Maxie Marrow,Alyosha Meah,mobile,99-9599677
+uk,"102,000.57",87261.49,2020-03-17,games,Franecki-White,Jessamine Apark,Genevra Charrisson,pc,22-0725785
+portugal,"53,181.88",42316.82,2020-01-06,smartphones,"Christiansen, Donnelly and Bechtelar",Celine Tumasian,Hortense Gerring,pc,37-6033123
+portugal,"99,518.86",81854.26,2019-03-12,books,"Dickinson, Hyatt and Berge",Celine Tumasian,Corene Shirer,pc,29-5158368
+portugal,"79,288.03",68536.57,2019-07-08,clothing,Johns and Sons,Celine Tumasian,Hortense Gerring,pc,95-4281933
+france,"111,557.68",92470.16,2020-02-15,books,Hessel-Stiedemann,Othello Bowes,Crysta Halls,pc,61-0532585
+netherlands,"43,008.69",34458.56,2019-07-19,appliances,Stamm-Zulauf,Denice Amberg,Nero Harbisher,pc,99-9093075
+france,"154,936.24",135739.64,2020-06-29,books,Friesen-Rath,Othello Bowes,Ora Grennan,pc,65-2631885
+sweden,"115,339.49",100691.37,2019-09-03,outdoors,"Farrell, Swaniawski and Crist",Maxie Marrow,Madelon Bront,mobile,03-4651559
+france,"65,254.50",53919.79,2019-06-17,games,"Rowe, Hermiston and Kessler",Othello Bowes,Maighdiln Upcraft,pc,91-6673445
+netherlands,"50,241.47",43443.8,2020-10-17,books,"Schmitt, Purdy and Johnson",Denice Amberg,Nero Harbisher,tablet,62-1501210
+uk,"304,337.49",261730.24,2019-12-04,clothing,Wunsch LLC,Jessamine Apark,Genevra Charrisson,pc,29-0072186
+bulgaria,"95,960.77",76519.12,2020-10-11,books,Hessel-Stiedemann,Charil Alpe,Bernadine Fullagar,pc,06-5115020
+sweden,"152,522.94",122399.66,2020-04-11,outdoors,Hane Inc,Maxie Marrow,Madelon Bront,pc,22-6046651
+sweden,"63,196.98",54671.71,2019-04-18,smartphones,"Spencer, Rogahn and Muller",Maxie Marrow,Caro Morfield,pc,71-6499815
+sweden,"83,119.87",69604.58,2019-01-29,clothing,O'Connell-Mitchell,Maxie Marrow,Alyosha Meah,pc,81-1454737
+france,"75,483.45",60077.28,2019-12-03,appliances,Johns and Sons,Othello Bowes,Ora Grennan,pc,26-0092767
+ireland,"65,397.28",53920.06,2020-03-20,outdoors,Baumbach Group,Glenine Suttaby,Bunnie Tonbridge,mobile,74-6211038
+france,"48,890.14",41180.16,2019-05-20,clothing,Johns and Sons,Othello Bowes,Ora Grennan,pc,85-5544928
+france,"80,839.75",63936.16,2020-05-21,games,Goldner-Dibbert,Othello Bowes,Crysta Halls,pc,00-6227453
+ireland,"79,375.17",64532.01,2020-02-09,beauty,Hessel-Stiedemann,Glenine Suttaby,Bunnie Tonbridge,mobile,70-5224180
+bulgaria,"158,011.30",137390.83,2019-11-27,beauty,"Jacobson, Marvin and Brown",Charil Alpe,Bernadine Fullagar,pc,40-8287610
+portugal,"155,766.23",131529.0,2020-05-27,games,Romaguera-Haley,Celine Tumasian,Aurelie Wren,pc,49-7876403
+france,"19,366.75",15857.49,2020-03-28,games,Wisoky Inc,Othello Bowes,Avrit Chanders,pc,01-6107437
+france,"45,481.24",37317.36,2019-10-25,smartphones,Wiza and Sons,Othello Bowes,Crysta Halls,pc,13-6163562
+sweden,"152,747.92",130614.75,2020-05-03,appliances,Armstrong-Little,Maxie Marrow,Anita Woakes,pc,41-0722740
+sweden,"255,216.00",211446.46,2019-12-28,clothing,"Jacobson, Marvin and Brown",Maxie Marrow,Tarrah Castelletti,pc,65-4008552
+portugal,"154,858.00",135376.86,2020-07-22,games,"Dickinson, Hyatt and Berge",Celine Tumasian,Smitty Culverhouse,pc,72-4825752
+france,"250,488.42",214142.55,2020-06-13,appliances,Goldner-Dibbert,Othello Bowes,Amelina Piscopiello,pc,18-2580592
+sweden,"115,151.22",91430.07,2020-10-25,appliances,"Farrell, Swaniawski and Crist",Maxie Marrow,Madelon Bront,pc,14-1283254
+sweden,"57,347.48",50041.41,2020-08-12,beauty,Johns and Sons,Maxie Marrow,Madelon Bront,pc,79-4826735
+portugal,"74,790.02",64992.53,2020-06-19,beauty,Corwin and Sons,Celine Tumasian,Corene Shirer,pc,82-2840501
+france,"72,749.07",59108.62,2019-01-20,smartphones,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,19-0320558
+bulgaria,"128,235.65",103024.52,2020-09-20,books,"Dickinson, Hyatt and Berge",Charil Alpe,Shermy McGready,pc,57-0945292
+sweden,"79,088.70",67415.21,2020-05-24,beauty,McGlynn-Prosacco,Maxie Marrow,Tarrah Castelletti,pc,01-6573793
+uk,"124,537.47",105881.76,2019-09-24,clothing,Hilll-Vandervort,Jessamine Apark,Winny Agnolo,pc,63-0694419
+sweden,"161,192.45",135965.83,2019-07-04,clothing,Wisoky Inc,Maxie Marrow,Tarrah Castelletti,pc,24-2442637
+france,"109,697.86",89853.52,2019-07-24,beauty,Considine-Fisher,Othello Bowes,Crysta Halls,pc,04-8899739
+france,"57,276.26",49223.22,2020-04-04,appliances,Johns and Sons,Othello Bowes,Amelina Piscopiello,pc,48-2932903
+netherlands,"149,956.93",130087.64,2020-10-08,games,"Spencer, Rogahn and Muller",Denice Amberg,Nero Harbisher,pc,66-0265458
+italy,"127,075.41",110924.13,2019-09-24,clothing,Labadie and Sons,Piggy Roscrigg,Joshua Prevost,pc,57-6602854
+sweden,"28,755.32",23938.8,2019-10-10,books,"Murray, Reichel and Nolan",Maxie Marrow,Madelon Bront,pc,47-6702070
+portugal,"178,027.46",144985.56,2020-01-04,appliances,Wisoky Inc,Celine Tumasian,Corene Shirer,pc,99-9215178
+bulgaria,"152,231.86",122303.08,2019-05-08,smartphones,Smith Group,Charil Alpe,Shermy McGready,pc,39-5953116
+sweden,"53,957.42",46905.19,2019-05-25,smartphones,Johns and Sons,Maxie Marrow,Caro Morfield,pc,71-3278650
+portugal,"80,474.78",66568.74,2019-05-22,clothing,"Farrell, Swaniawski and Crist",Celine Tumasian,Hortense Gerring,pc,38-6891011
+bulgaria,"145,439.65",123710.97,2020-10-03,smartphones,Friesen and Sons,Charil Alpe,Bernadine Fullagar,pc,06-5566367
+france,"84,035.82",71329.6,2020-10-27,books,Johns and Sons,Othello Bowes,Maighdiln Upcraft,tablet,30-9025281
+spain,"68,288.68",56754.72,2020-09-27,beauty,Johns and Sons,Emalia Dinse,Bertha Walbrook,pc,80-4161102
+sweden,"100,578.60",83208.68,2019-01-14,electronics,Labadie and Sons,Maxie Marrow,Caro Morfield,pc,96-1388247
+france,"94,925.00",77572.71,2019-09-30,accessories,Schoen-Keeling,Othello Bowes,Avrit Chanders,mobile,21-2097342
+france,"105,464.41",84761.75,2019-08-27,books,"Schmitt, Purdy and Johnson",Othello Bowes,Avrit Chanders,pc,30-4045249
+france,"155,827.30",126360.36,2019-04-30,appliances,Hilll-Vandervort,Othello Bowes,Avrit Chanders,tablet,31-9806848
+portugal,"90,994.31",72540.66,2020-05-09,electronics,"Zieme, Bailey and Herzog",Celine Tumasian,Brynn Dempster,pc,09-7835975
+portugal,"32,779.67",26800.66,2020-03-22,outdoors,Kihn Inc,Celine Tumasian,Aurelie Wren,pc,16-9758497
+bulgaria,"40,187.99",32508.07,2020-05-22,games,Friesen-Rath,Charil Alpe,Shermy McGready,pc,54-1058965
+uk,"91,842.59",73979.21,2019-03-29,games,Marquardt-Kuvalis,Jessamine Apark,Genevra Charrisson,pc,84-0565956
+portugal,"38,494.71",33113.15,2019-02-04,games,Wisoky Inc,Celine Tumasian,Hortense Gerring,pc,85-6263705
+france,"86,050.61",75569.65,2020-09-03,clothing,McClure Inc,Othello Bowes,Crysta Halls,pc,46-4560578
+sweden,"36,749.51",30101.52,2020-10-15,games,Hilll-Vandervort,Maxie Marrow,Madelon Bront,pc,08-5093310
+finland,"194,531.02",158970.75,2019-07-09,clothing,"Farrell, Swaniawski and Crist",Hube Corey,Mellicent Mattys,tablet,21-8525376
+france,"106,730.16",89503.91,2020-07-30,beauty,"Farrell, Swaniawski and Crist",Othello Bowes,Ora Grennan,pc,60-0406937
+germany,"30,177.80",23924.96,2020-10-06,electronics,"Leffler, Prohaska and Streich",Rickard Doogood,Casie MacBain,mobile,61-4937643
+portugal,"93,902.04",80793.31,2020-03-01,clothing,Tillman and Sons,Celine Tumasian,Aurelie Wren,pc,94-3251589
+germany,"250,483.63",217269.5,2020-07-03,accessories,Considine-Fisher,Rickard Doogood,Casie MacBain,mobile,48-2124998
+sweden,"162,142.74",136037.76,2019-01-29,clothing,Kirlin and Sons,Maxie Marrow,Alyosha Meah,pc,19-1017922
+denmark,"47,516.54",38987.32,2020-01-09,books,Johns and Sons,Modestia Byfford,Cobby Andersen,pc,51-1141675
+germany,"163,546.81",133307.0,2019-05-07,electronics,"Lueilwitz, Kerluke and Lesch",Rickard Doogood,Casie MacBain,pc,94-2134593
+france,"35,437.89",30412.8,2020-02-03,clothing,Homenick-Marvin,Othello Bowes,Ora Grennan,pc,82-0616982
+belgium,"122,889.28",103042.66,2020-11-27,smartphones,Labadie and Sons,Lambert Norheny,Collin Mackness,pc,22-5761330
+luxembourg,"26,490.47",21168.53,2019-11-04,appliances,Hessel-Stiedemann,Ilsa Kob,Jocelyn Laurentino,pc,62-1694462
+uk,"173,722.59",148063.76,2019-04-09,games,"Schowalter, Lesch and Beahan",Jessamine Apark,Jay Morefield,pc,66-2612057
+france,"76,543.36",65819.64,2019-03-21,accessories,"Hermiston, Simonis and Wisoky",Othello Bowes,Ora Grennan,pc,01-7655863
+sweden,"69,626.39",57295.56,2019-06-15,electronics,"Hamill, Kulas and Roob",Maxie Marrow,Madelon Bront,pc,06-2196763
+france,"249,915.21",215326.95,2020-12-15,appliances,Armstrong-Little,Othello Bowes,Crysta Halls,pc,84-4465649
+portugal,"55,790.71",48783.4,2020-10-08,appliances,Johns and Sons,Celine Tumasian,Corene Shirer,pc,63-6767584
+netherlands,"77,896.83",62714.74,2020-03-13,clothing,Dibbert Inc,Denice Amberg,Nero Harbisher,pc,75-7443241
+portugal,"104,391.93",86770.57,2020-01-04,beauty,"Murray, Reichel and Nolan",Celine Tumasian,Brynn Dempster,pc,34-8182639
+portugal,"57,115.99",48976.96,2019-03-27,books,"Lind, Mueller and Stoltenberg",Celine Tumasian,Aurelie Wren,mobile,53-3803984
+france,"74,685.85",59166.13,2020-05-23,games,"Lubowitz, McLaughlin and Erdman",Othello Bowes,Avrit Chanders,pc,68-0176456
+france,"74,103.82",64811.2,2020-01-02,appliances,Johns and Sons,Othello Bowes,Ora Grennan,pc,63-7370049
+france,"176,190.16",142273.55,2019-09-02,appliances,Johns and Sons,Othello Bowes,Maighdiln Upcraft,pc,03-3461826
+sweden,"185,778.30",154734.75,2020-06-25,electronics,"Jacobson, Marvin and Brown",Maxie Marrow,Tarrah Castelletti,pc,76-5888381
+france,"212,521.26",172014.71,2019-06-20,books,Johns and Sons,Othello Bowes,Crysta Halls,pc,43-7357498
+france,"40,148.49",31954.18,2019-02-02,electronics,Hane Inc,Othello Bowes,Amelina Piscopiello,pc,88-8981595
+portugal,"157,942.65",136620.39,2020-06-23,electronics,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,pc,95-6123269
+netherlands,"172,453.10",145688.38,2020-06-24,outdoors,Kirlin and Sons,Denice Amberg,Nero Harbisher,pc,60-6986682
+france,"203,604.46",175344.16,2019-06-26,electronics,Kirlin and Sons,Othello Bowes,Crysta Halls,mobile,29-5478106
+sweden,"251,587.20",201848.41,2019-06-14,smartphones,"Schowalter, Lesch and Beahan",Maxie Marrow,Alyosha Meah,mobile,49-2256360
+sweden,"19,930.04",16543.93,2019-03-09,smartphones,Johns and Sons,Maxie Marrow,Anita Woakes,tablet,59-2480731
+bulgaria,"149,372.32",130611.16,2020-12-20,electronics,"Abbott, Roberts and Torp",Charil Alpe,Shermy McGready,mobile,63-6848448
+sweden,"25,907.52",22454.05,2019-02-19,books,"Farrell, Swaniawski and Crist",Maxie Marrow,Alyosha Meah,pc,14-5110197
+portugal,"64,762.89",54238.92,2019-02-06,electronics,Schoen-Keeling,Celine Tumasian,Hortense Gerring,pc,42-2646312
+finland,"65,211.07",56883.62,2020-10-28,games,Hilll-Vandervort,Hube Corey,Mellicent Mattys,pc,60-8083173
+spain,"42,475.60",35802.68,2019-02-13,books,Johns and Sons,Emalia Dinse,Perri Aldersley,pc,76-1827989
+portugal,"172,340.86",136562.9,2020-04-09,beauty,Tromp LLC,Celine Tumasian,Hortense Gerring,pc,36-4321653
+ireland,"165,709.19",138102.04,2020-10-09,smartphones,Considine-Fisher,Glenine Suttaby,Bunnie Tonbridge,pc,18-7046062
+italy,"118,409.59",96030.18,2020-10-06,games,"Bashirian, Okuneva and Bechtelar",Piggy Roscrigg,Joshua Prevost,pc,73-4380400
+france,"58,416.11",48076.46,2020-05-16,appliances,Stehr LLC,Othello Bowes,Maighdiln Upcraft,pc,47-5051773
+france,"78,629.19",63359.4,2019-02-21,appliances,Johns and Sons,Othello Bowes,Amelina Piscopiello,mobile,92-3687989
+sweden,"64,842.92",56439.28,2019-09-29,appliances,Larkin-Collier,Maxie Marrow,Alyosha Meah,mobile,60-9753536
+belgium,"76,183.74",61617.41,2019-06-03,clothing,"Hermiston, Simonis and Wisoky",Lambert Norheny,Collin Mackness,mobile,39-5658730
+sweden,"131,839.16",115372.45,2020-04-27,books,McGlynn-Prosacco,Maxie Marrow,Madelon Bront,pc,73-8632957
+portugal,"147,092.62",117806.48,2020-10-31,clothing,"Fisher, Morar and Skiles",Celine Tumasian,Hortense Gerring,pc,16-0987104
+finland,"62,011.86",49324.23,2019-01-17,beauty,Johns and Sons,Hube Corey,Mellicent Mattys,tablet,76-0164425
+portugal,"56,763.04",47663.92,2019-08-11,smartphones,Kirlin and Sons,Celine Tumasian,Aurelie Wren,mobile,87-7908481
+portugal,"78,057.96",67161.07,2020-11-29,beauty,"Swaniawski, Runolfsson and Green",Celine Tumasian,Hortense Gerring,tablet,30-7149594
+uk,"96,358.45",80700.2,2019-06-12,outdoors,Stamm-Zulauf,Jessamine Apark,Genevra Charrisson,pc,75-7848944
+france,"40,535.64",35480.85,2019-01-13,electronics,Kihn Inc,Othello Bowes,Crysta Halls,pc,72-2796883
+france,"96,795.99",81395.75,2019-06-21,appliances,Connelly-Mohr,Othello Bowes,Avrit Chanders,pc,32-3124563
+portugal,"122,035.93",97897.22,2020-06-21,accessories,Larkin-Collier,Celine Tumasian,Aurelie Wren,pc,83-7592334
+sweden,"89,502.53",72488.1,2020-10-31,clothing,Gleichner-Green,Maxie Marrow,Tarrah Castelletti,pc,61-3721294
+portugal,"223,233.32",179100.09,2019-06-28,games,Romaguera-Dietrich,Celine Tumasian,Corene Shirer,pc,43-8355995
+finland,"33,190.03",28397.39,2020-08-18,electronics,Homenick-Marvin,Hube Corey,Wat Bowkley,tablet,49-2458036
+portugal,"82,357.57",65474.27,2019-02-19,books,Kihn Inc,Celine Tumasian,Aurelie Wren,pc,13-9607758
+ireland,"46,857.77",39116.87,2020-06-19,games,Johns and Sons,Glenine Suttaby,Palm Wetherald,mobile,61-0888460
+uk,"178,560.10",150383.32,2020-07-02,books,O'Connell-Mitchell,Jessamine Apark,Winny Agnolo,mobile,25-2616039
+sweden,"173,944.47",139729.59,2020-09-11,books,Johns and Sons,Maxie Marrow,Madelon Bront,pc,46-2962443
+uk,"176,662.26",146859.34,2020-06-28,electronics,Friesen-Rath,Jessamine Apark,Genevra Charrisson,pc,44-9908550
+france,"133,754.65",106147.69,2020-09-18,games,Armstrong-Little,Othello Bowes,Ora Grennan,pc,52-3150154
+bulgaria,"159,294.28",130605.38,2020-08-09,clothing,"Hamill, Kulas and Roob",Charil Alpe,Shermy McGready,pc,37-9761957
+france,"123,562.02",102927.16,2020-04-22,clothing,McGlynn-Bergstrom,Othello Bowes,Amelina Piscopiello,pc,67-6072579
+france,"33,013.08",26743.9,2020-11-28,electronics,Romaguera-Dietrich,Othello Bowes,Amelina Piscopiello,pc,89-0300778
+portugal,"105,340.85",87285.43,2020-08-18,books,"Farrell, Swaniawski and Crist",Celine Tumasian,Brynn Dempster,pc,80-1894360
+spain,"127,143.54",105033.28,2019-10-03,electronics,"Murray, Reichel and Nolan",Emalia Dinse,Bertha Walbrook,pc,58-2235320
+portugal,"56,570.64",46993.23,2020-10-05,books,Stamm Inc,Celine Tumasian,Smitty Culverhouse,pc,68-9875936
+france,"75,522.66",60448.34,2019-03-13,smartphones,Corwin and Sons,Othello Bowes,Crysta Halls,pc,75-8968627
+portugal,"87,085.71",76548.34,2020-08-27,outdoors,West-Cummings,Celine Tumasian,Smitty Culverhouse,pc,86-9456489
+uk,"290,010.79",234444.72,2019-12-25,smartphones,Smith Group,Jessamine Apark,Genevra Charrisson,pc,02-1124101
+luxembourg,"256,603.66",209799.15,2019-07-27,smartphones,O'Connell-Mitchell,Ilsa Kob,Jocelyn Laurentino,tablet,85-9787047
+uk,"126,074.62",100027.6,2020-11-07,books,Gislason-Stanton,Jessamine Apark,Winny Agnolo,pc,60-7663173
+sweden,"94,085.50",77498.23,2020-01-19,electronics,"Zieme, Bailey and Herzog",Maxie Marrow,Caro Morfield,pc,34-1570975
+portugal,"159,216.47",137419.74,2020-06-26,games,Johns and Sons,Celine Tumasian,Smitty Culverhouse,pc,57-9765345
+portugal,"74,958.46",65806.03,2020-08-05,electronics,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,pc,31-8846200
+sweden,"83,897.88",69559.73,2019-03-18,appliances,Franecki-White,Maxie Marrow,Anita Woakes,mobile,48-6452102
+sweden,"133,055.04",105366.29,2019-11-10,books,Hegmann Group,Maxie Marrow,Tarrah Castelletti,pc,85-9541179
+sweden,"94,115.99",75669.26,2019-09-16,appliances,"Swaniawski, Runolfsson and Green",Maxie Marrow,Tarrah Castelletti,pc,93-2085046
+finland,"125,851.79",103777.39,2020-11-15,games,Wunsch LLC,Hube Corey,Mellicent Mattys,pc,03-6962760
+netherlands,"60,917.85",52736.58,2019-02-17,smartphones,Smith Group,Denice Amberg,Nero Harbisher,pc,15-3241183
+france,"101,318.72",86657.9,2019-04-13,games,Hilll-Vandervort,Othello Bowes,Maighdiln Upcraft,pc,54-5705354
+portugal,"131,610.37",106406.98,2020-04-30,beauty,O'Connell-Mitchell,Celine Tumasian,Corene Shirer,pc,29-1888759
+france,"235,042.75",187446.59,2019-12-25,books,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Maighdiln Upcraft,pc,12-3815754
+ireland,"58,921.31",51715.23,2020-12-13,games,Johns and Sons,Glenine Suttaby,Bunnie Tonbridge,pc,30-4823900
+portugal,"101,846.87",88066.99,2019-01-07,clothing,Corwin and Sons,Celine Tumasian,Aurelie Wren,pc,72-9074281
+france,"95,307.21",78533.14,2020-03-26,books,Armstrong-Little,Othello Bowes,Amelina Piscopiello,pc,52-0213558
+france,"232,217.05",191439.74,2019-06-20,beauty,Hessel-Stiedemann,Othello Bowes,Maighdiln Upcraft,mobile,19-6334792
+portugal,"75,912.59",60145.55,2019-10-14,outdoors,Wisoky Inc,Celine Tumasian,Corene Shirer,mobile,35-4712641
+portugal,"57,367.93",46255.76,2019-10-28,clothing,Friesen-Rath,Celine Tumasian,Aurelie Wren,mobile,03-3542738
+portugal,"158,240.24",136561.33,2020-11-23,books,Hessel-Stiedemann,Celine Tumasian,Brynn Dempster,pc,81-9457605
+portugal,"97,291.62",76899.3,2020-01-02,clothing,Johns and Sons,Celine Tumasian,Hortense Gerring,pc,63-0813030
+portugal,"83,904.32",69011.3,2020-06-07,games,"Hartmann, Hane and Pfannerstill",Celine Tumasian,Corene Shirer,pc,00-7326184
+uk,"133,696.86",109310.55,2020-01-27,books,Hilll-Vandervort,Jessamine Apark,Winny Agnolo,pc,22-0156233
+uk,"146,076.81",123230.4,2019-07-27,appliances,Johns and Sons,Jessamine Apark,Genevra Charrisson,pc,94-0623186
+france,"56,118.05",47711.57,2020-03-02,beauty,Altenwerth-Konopelski,Othello Bowes,Amelina Piscopiello,pc,08-0446109
+france,"46,296.26",40319.41,2020-05-15,games,Wisoky Inc,Othello Bowes,Amelina Piscopiello,tablet,77-3489084
+belgium,"118,061.05",101131.1,2020-07-02,appliances,Johns and Sons,Lambert Norheny,Collin Mackness,mobile,59-2117058
+finland,"74,480.56",60023.88,2020-03-06,clothing,Homenick-Marvin,Hube Corey,Wat Bowkley,pc,31-1849120
+spain,"87,205.01",69171.01,2020-06-18,games,Johns and Sons,Emalia Dinse,Manuel Goudie,tablet,45-3085595
+portugal,"107,716.72",86679.64,2020-01-18,accessories,"Jacobson, Marvin and Brown",Celine Tumasian,Brynn Dempster,mobile,61-3294149
